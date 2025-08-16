@@ -1,0 +1,211 @@
+@media print {
+    @page {
+        size: A4;
+         margin: 0; 
+
+    }
+    .no-print {
+        display: none;
+    }
+
+    #tables-container {
+        z-index: 9999;
+        position: relative;
+
+    }
+
+    #printButton {
+        display: none;
+    }
+
+    .card,
+    .card-body,
+    .second-card {
+        border: none !important;
+        border-left: none !important;
+        border-right: none !important;
+        border-bottom: none !important;
+        box-shadow: none !important;
+        --bs-card-bg: var(--bs-body-bg);
+
+    }
+
+    .second-card {
+        border: none !important;
+        margin-top: -30px !important;
+    }
+
+    .custom-footer {
+        /* display: flex; */
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        /* top:700px !important; */
+        height: 100px;
+        width: 100%;
+        page-break-inside: avoid;
+    }
+
+
+
+    body,
+    html {
+        print-color-adjust: exact;
+        -webkit-print-color-adjust: exact;
+        /* For Safari */
+        background-color: #fff;
+        color: #000;
+        border: none !important;
+    }
+
+    /* Force specific print styles */
+    .main-container {
+        background-color: #e7ecf0;
+        padding: 0px;
+        border: none;
+    }
+
+
+    .abnormal {
+        color: #dc3545;
+        font-weight: bold;
+    }
+
+    .section-header {
+        font-weight: 500;
+        font-size: 1.1rem;
+        color: #007bff;
+    }
+
+    /* page breaks to uptimize print  */
+     .page-break {
+        
+        page-break-before: always;
+        margin-top: 40px;
+      
+    }
+    .no-page-break {
+        page-break-inside: avoid;
+    }
+    .signature-section {
+        page-break-before: avoid;
+    }
+    .panel{
+        page-break-after: avoid ;
+        page-break-inside: avoid ;
+    }
+
+}
+
+.abnormal {
+    color: #dc3545;
+    font-weight: bold;
+}
+
+.section-header {
+    font-weight: 500;
+    font-size: 1.1rem;
+    color: #007bff;
+}
+
+/* Main Container */
+.main-container {
+    background-color: #e7ecf0;
+    max-width: 800px;
+    padding: 0px;
+}
+
+
+/* Card Styling */
+.second-card {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin: 1rem 0;
+    padding: 1.5rem;
+    border: none;
+
+
+}
+
+.card {
+    border: none !important;
+    border-style: none !important;
+    --bs-card-border-color: none !important;
+    --bs-card-border-radius:none !important;
+    --bs-card-box-shadow: none !important;
+    --bs-card-cap-bg: none !important;
+}
+
+/* Report Card (Patient Information Section) */
+.report-card {
+    background-color: #e9f5ff;
+    /* Very Light Blue */
+
+}
+
+/* Table Container */
+#tables-container {
+    background-color: #ffffff;
+    font-size: 11px !important;
+    /* White */
+
+}
+
+/* Signature Section */
+.border-top {
+    background-color: #f8f9fa;
+    /* Very Light Gray */
+}
+
+.patient-info {
+    margin-top: 0px;
+}
+
+.table-custom {
+
+    justify-items: start;
+    padding: .2rem .2rem;
+    --bs-table-bg: 0;
+    border: none;
+    font-size: 11px !important;
+}
+
+.custom-td {
+    justify-items: center;
+    justify-content: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.custom-row {
+    border: none;
+    padding: 0 0 0 0 !important;
+
+}
+
+/* .table>:not(caption)>*>* {
+        padding: 0 !important;
+    } */
+
+
+.custom-footer {
+
+    padding-top: 10px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+#printButton {
+    border-radius: 3px;
+}
+
+.bold-row {
+    font-weight: bold;
+}
+.panel{
+    font-size: 12px !important;
+    font-weight: bold;
+}
+.contact_no{
+font-size:11px;
+font-weight: bold;
