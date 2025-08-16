@@ -1,0 +1,34 @@
+<div class="patient-info-fixed-postion-container" id="patientContext">
+    <div class="patient-info-fixed">
+        <ul>
+            <li class="patient-name-image-container">
+                <img class="patient-image" ng-src="{{::patientContext.image}}" fallback-src="../images/blank-user.gif">
+                <span class="patient-name" ng-if="showNameAndImage">
+                    {{patientContext.givenName}} {{patientContext.middleName}} {{patientContext.familyName}}
+                </span>
+                <span class="patient-name">
+                    ({{patientContext.identifier}}) 
+                </span>
+            </li>
+            <li>{{patientContext.gender}}</li>
+            <li>{{patientContext.birthdate | birthDateToAgeText}}</li>
+            <li ng-repeat="(key, value) in patientContext.additionalPatientIdentifiers">
+                {{key}}: {{value}}
+            </li>
+            <li ng-repeat="(key, value) in patientContext.personAttributes">
+                {{value.description}}: {{value.value}}
+            </li>
+            <li ng-repeat="(key, value) in patientContext.programAttributes">
+                {{value.description}}: {{value.value}}
+            </li>
+            <li ng-if="patientContext.nhisNumber">NHIS Number: {{patientContext.nhisNumber}}</li>
+            <li ng-if="patientContext.nhisMemberActive">NHIS Member: {{patientContext.nhisMemberActive}}</li>
+
+            <li ng-if="datas.indexOf('Allergic Reaction') !== -1">
+                <img src="../images/fa-solid--allergies.png" style="height: 14.5px; width: 13px; margin-block: -1px; margin-right: 3px;"> 
+                Allergic Reaction
+                                   
+            </li>  
+        </ul>
+    </div>
+</div>
