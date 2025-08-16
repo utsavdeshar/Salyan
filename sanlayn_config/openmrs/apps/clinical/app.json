@@ -1,0 +1,744 @@
+{
+  "id": "bahmni.clinical",
+  "extensionPoints": [
+    {
+      "id": "org.bahmni.clinical.consultation.board",
+      "description": "Bahmni Clinical Consultation Page"
+    },
+    {
+      "id": "org.bahmni.clinical.conceptSetGroup.*",
+      "description": "Define conceptsets part of a conceptset group"
+    },
+    {
+      "id": "org.bahmni.clinical.orders",
+      "description": "Bahmni Orders Page"
+    },
+    {
+      "id": "org.bahmni.patient.search",
+      "description": "Bahmni Patient search, lookups Page"
+    }
+  ],
+  "contextModel": [
+    "patientUuid",
+    "visitUuid"
+  ],
+  "config": {
+    "hideConditions": false,
+    "enableNepaliCalendar": true,
+    "displayNepaliDates": true,
+    "filterObservationTemplates": true,
+    "defaultVisitType": "OPD",
+    "visitTypeForRetrospectiveEntries": "OPD",
+    "obsIgnoreList": [
+      "Patient file"
+    ],
+    "patientConfig": {
+      "showMiddleNameOn": [
+        "patient-profile",
+        "patient-context"
+      ]
+    },
+    "quickPrints": true,
+    "networkConnectivity": {
+      "showNetworkStatusMessage": false,
+      "networkStatusCheckInterval": 20000,
+      "locales": [
+        {
+          "locale": "fr",
+          "css": "offline-language-french"
+        },
+        {
+          "locale": "es",
+          "css": "offline-language-spanish"
+        },
+        {
+          "locale": "pt",
+          "css": "offline-language-portuguese-brazil"
+        }
+      ]
+    },
+    "diagnosisStatus": "Inactive",
+    "program": {
+      "patientInformation": {
+        "ageLimit": 100
+      },
+      "ID_Number": {
+        "required": true
+      },
+      "Co-morbidites": {
+        "excludeFrom": [
+          "HIV Program"
+        ]
+      },
+      "Doctor": {
+        "excludeFrom": [
+          "TB Program"
+        ]
+      }
+    },
+    "patientContext": {
+      "programAttributes": [
+        "Id_Number",
+        "Doctor",
+        "Stage"
+      ],
+      "personAttributes": [
+        "class",
+        "caste"
+      ],
+      "additionalPatientIdentifiers": [
+        "National ID"
+      ],
+      "preferredIdentifier": "Id_Number"
+    },
+    "otherInvestigationsMap": {
+      "Radiology": "Radiology Order",
+      "Endoscopy": "Endoscopy Order"
+    },
+    "allowConsultationWhenNoOpenVisit": false,
+    "allowOnlyCodedDiagnosis": false,
+    "maxConceptSetLevels": 5,
+    "conceptSetUI": {
+      "Chief complaint": {
+        "autocomplete": true,
+        "codedConceptName": "Chief Complaint",
+        "nonCodedConceptName": "Non-Coded Chief Complaint",
+        "durationRequired": false,
+        "conciseText": true
+      },
+      "Acute OPD visit": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "ANC": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Animal bite note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Burn note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "CBIMNCI (<2 months child)": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "CBIMNCI (2 to 59 months child)": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Death note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Dental note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Delivery note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Discharge note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "DR TB follow up (DRTB FU) note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "DR TB intake note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "ER General Note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Eye clinical note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Family planning and reproductive health(FRH) note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "IMAM Program": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Immunization Note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Kalazar note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Leprosy": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Malaria note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Newborn admission (NBA) note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Nutrition note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "OCMC note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Operative note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "PNC note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Procedure note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Rehabitation service (RHS) note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Reproduction health complication care (RHCC) note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Safe abortion (SA) note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Sexually Transmitted Infections": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Tuberculosis Follow up note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Tuberculosis Intake Note": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+    "Vitals": {
+        "showPreviousButton": true,
+        "numberOfVisits": 1
+    },
+      "OPD-Free health service code": {
+        "required": true
+      },
+      "OPD-Physical examination": {
+        "multiSelect": true
+      },
+      "OPD-Gender based violence": {
+        "required": true
+      },
+      "OPD-Disease condition": {
+        "multiSelect": true
+      },
+      
+      "OPD-Suspected Tuberculosis Patients": {
+        "required": true
+      },
+      "Referred in": {
+        "required": true
+      },
+      "Animal bite-Biting animal": {
+        "required": true
+      },
+      "Animal bite-Vaccination provided": {
+        "required": true,
+        "multiSelect": true  
+      },
+      "Childhood Illness-<2 months, case": {
+        "required": true
+      },
+      "Childhood Illness-2 to 59 months-Case": {
+        "required": true
+      },
+      "CBIMNCI<2-Case": {
+        "required": true
+      },
+      "CBIMNCI 2 to 59-Treated with": {
+        "required": true
+      },
+      "PSBI/LBI/NBI-Symptoms": {
+        "required": true
+      },
+      "Childhood illness-Diarrhoea present": {
+        "required": true
+      },
+      "Childhood illness-Dehydration status": {
+        "required": true
+      },
+      "CBIMNCI 2 to 59-Case": {
+        "required": true
+      },
+      "CBIMNCI 2 to 59-ARI classification": {
+        "required": true
+      },
+      "Childhood Illness-Diarrhoea present": {
+        "required": true
+      },
+      "Childhood Illness-Dehydration status": {
+        "required": true
+      },
+      "CBIMNCI 2 to 59-If other diagnosis": {
+        "required": true
+      },
+      "Death note-Brought dead": {
+        "required": true
+      },
+      "Dental note-Tooth quadrant": {
+        "multiSelect": true
+      },
+      "Dental note-Tooth number": {
+        "multiSelect": true
+      },
+      "Dental note-Procedure": {
+        "required": true,
+        "multiSelect": true
+      },
+      "Delivery-Delivery service done by": {
+        "required": true
+      },
+      "Delivery-Delivery date and time": {
+        "required": true
+      },
+      "Delivery-Outcome of delivery": {
+        "required": true
+      },
+      "Delivery-Stillbirth type": {
+        "required": true
+      },
+      "Delivery-Method of delivery": {
+        "required": true
+      },
+      "Delivery-Fetal presentation": {
+        "required": true
+      },
+      "Delivery-Completed 4 ANC visits per protocol": {
+        "required": true
+      },
+      "Delivery-Blood transfusion quantity": {
+        "required": true
+      },
+      "Delivery-Gravida": {
+        "required": true
+      },
+      "Delivery-Gestation period": {
+        "required": true
+      },
+      "Delivery-Complication present": {
+        "required": true,
+        "multiSelect": true
+      },
+      "Discharge-Inpatient outcome": {
+        "required": true
+      },
+      "Discharge-Major surgery in this admission": {
+        "required": true
+      },
+      "Discharge-Post operative complications": {
+        "required": true,
+        "multiSelect": true
+      },
+      "ER-Free health service code": {
+        "required": true
+      },
+      "FP-Users type": {
+        "required": true
+      },
+      "FRH-counselling done": {
+        "required": true
+      },
+      "FRH-Consent obtained": {
+        "required": true
+      },
+      "FRH-Procedure follow up": {
+        "allowFutureDates": true
+      },
+      "Follow up Date": {
+        "allowFutureDates": true
+      },
+      "IMAM-Visit Type": {
+        "required": true
+      },
+      "IMAM, Indicator": {
+        "required": true
+      },
+      "Kalaazar-Receptivity": {
+        "required": true
+      },
+      "Kalaazar-Source": {
+        "required": true
+      },
+      "Kalaazar-Classification": {
+        "required": true
+      },
+      "Malaria-Malaria type": {
+        "required": true
+      },
+      "Malaria-Classification": {
+        "required": true
+      },
+      "Malaria, Receptivity": {
+        "required": true
+      },
+      "Malaria-Source": {
+        "required": true
+      },
+      "Malaria, Malaria Type": {
+        "required": true
+      },
+      "Malaria, Finding": {
+        "required": true
+      },
+      "NBA-Chlorhexidine applied on cord": {
+        "required": true
+      },
+      "NBA-Neonate weight": {
+        "required": true
+      },
+      "NBA-Neonate size": {
+        "required": true
+      },
+      "ANC, Visit Month": {
+        "required": true
+      },
+      "ANC, ANC Visit": {
+        "required": true,
+        "multiSelect": true
+      },
+      "ANC, Completed 4 ANC visits": {
+        "required": true
+      },
+      "ANC - Completed 8 ANC visits per protocol": {
+        "required": true
+      },
+            
+      "ANC, Expected Delivery Date": {
+        "allowFutureDates": true
+      },
+      "ANC-Obstetric Complication": {
+        "required": true
+      },
+      "ANC-High Risk Pregnancy Diagnosis": {
+        "required": true,
+        "multiSelect": true
+      },
+      "Nutrition-Visit type": {
+        "required": true
+      },
+      
+      "Nutrition-Nutritional status": {
+        "required": true
+      },
+      "OCMC - Visit": {
+        "required": true
+      },
+      "OCMC - Disability": {
+        "required": true,
+        "multiSelect": true
+      },
+      "OCMC - Types of violence": {
+        "required": true,
+        "multiSelect": true
+      },
+      "OCMC - Service": {
+        "required": true,
+        "multiSelect": true
+      },
+      "OCMC - Cause of violence": {
+        "required": true
+      },
+      "OCMC - Relationship of the perpetrator": {
+        "required": true
+      },
+      "OCMC- Age of Prepetrator": {
+        "required": true
+      },
+      "OCMC - Gender of Prepetrator": {
+        "required": true
+      },
+      "Operative note-Procedure": {
+        "required": true
+      },
+      "Operative note-Surgeons": {
+        "required": true
+      },
+      "Operative note-Anesthetist": {
+        "required": true
+      },
+      "Scrub nurse": {
+        "required": true
+      },
+      "Circulating nurse": {
+        "required": true
+      },
+      "Operative note-Anesthesia": {
+        "required": true
+      },
+      "Operative note-Antibiotics administered": {
+        "required": true
+      },
+      "Eye-Eyelashes": {
+        "multiSelect": true
+      },
+      "Eye-Eyelid": {
+        "multiSelect": true
+      },
+      "Eye-Conjunctiva": {
+        "multiSelect": true
+      },
+      "Eye-Cornea": {
+        "multiSelect": true
+      },
+      "Eye-Anterior chamber": {
+        "multiSelect": true
+      },
+      "Eye-Iris": {
+        "multiSelect": true
+      },
+      "Eye-Pupil": {
+        "multiSelect": true
+      },
+      "Eye-Lens": {
+        "multiSelect": true
+      },
+      "PNC-Visit number": {
+        "required": true
+      },
+      "PNC-Obstructive complication": {
+        "required": true
+      },
+      "IFA tablets provided": {
+        "required": true
+      },
+      "Vitamin A capsules provided": {
+        "required": true
+      },
+      "SA-Follow up": {
+        "allowFutureDates": true
+      },
+      "SA-visit type": {
+        "required": true
+      },
+      "SA-surgical procedure": {
+        "required": true
+      },
+      "SA-Medical abortion": {
+        "required": true
+      },
+      "PAC cause": {
+        "required": true
+      },
+      "PNC-IFA tablets provided": {
+        "required": true
+      },
+      "PNC-Vitamin A capsules provided": {
+        "required": true
+      },
+      "FRH-Users type": {
+        "required": true
+      },
+      "Hormonal Complications": {
+        "multiSelect": true
+      },
+      "IUCD Complication": {
+        "multiSelect": true
+      },
+      "RHS - Visit": {
+        "required": true
+      },
+      "Session": {
+        "required": true
+      },
+      "Day": {
+        "required": true
+      },
+      "RHS - Types of Disability": {
+        "required": true
+      },
+      "RHS - Functioning": {
+        "required": true
+      },
+      "RHS - Causes": {
+        "required": true
+      },
+      "RHS - Type of services": {
+        "required": true
+      },
+      "RHS - Diagnosis": {
+        "required": true
+      },
+      "RHS - Internal Refer in": {
+        "required": true
+      },
+      "TB intake-Type": {
+        "required": true
+      },
+      "TB intake-Referred by": {
+        "required": true
+      },
+      "Smoking status": {
+        "required": true
+      },
+      "TB intake-Treatment type": {
+        "required": true
+      },
+      "TB FU-Diagnosis category(PBC)": {
+        "required": true
+      },
+      "DRTB intake-Diagnosis category": {
+        "required": true
+      },
+      "DRTB intake-Is patient on CPT": {
+        "required": true
+      },
+      "DRTB FU-Treatment category": {
+        "required": true
+      },
+      "DRTB FU-Monthly baseline test performed": {
+        "required": true
+      },
+      "Burn-Site of burn": {
+        "required": true,
+        "multiSelect": true
+      },
+      "Burn-Degree of burn": {
+        "required": true
+      },
+      "HTC-Reason for test": {
+        "required": true
+      },
+      "HTC-Risk group": {
+        "required": true
+      },
+      "HTC-Informed consent": {
+        "required": true
+      },
+      "HIVTC-Risk group": {
+        "required": true
+      },
+      "HIVTC-HIV care WHO staging": {
+        "required": true
+      },
+      "HIVTC-HIV care CPT started": {
+        "required": true
+      },
+      "HIVTC-HIV care IPT started": {
+        "required": true
+      },
+      "HIVTC FU-Visit": {
+        "required": true
+      },
+      "HIVTC FU-Opportunistic infection diagnosis": {
+        "required": true
+      },
+      "HIVTC FU-Any oi in past 3 months": {
+        "required": true
+      },
+      "HIVTC FU-ART treatment adherence": {
+        "required": true
+      },
+      "HIVTC FU-CD4 count performed in last 6 months": {
+        "required": true
+      },
+      "STI-Syndromic diagnosis": {
+        "required": true
+      },
+      "STI-Etiological diagnosis": {
+        "required": true
+      },
+      "STI-Risk group": {
+        "required": true
+      },
+      "STI-Sydromic treatment": {
+        "required": true
+      },
+      "STI-Etiological treatment": {
+        "required": true
+      },
+      "Death note-Primary cause of death": {
+        "required": true
+      },
+      "Death note-Pronounced death date and time": {
+        "required": true
+      },
+      "Procedure-Procedure": {
+        "required": true
+      },
+      "Procedure-Surgeons": {
+        "required": true
+      },
+      "Procedure-Other staff": {
+        "required": true
+      },
+      
+      "Leprosy-Finding type": {
+        "required": true
+      },
+      "Leprosy-Case type": {
+        "required": true
+      },
+      "Leprosy-Leprosy type": {
+        "required": true
+      },
+      "Leprosy-Disability grade": {
+        "required": true
+      },      
+      "PMTCT-Risk group": {
+        "required": true
+      },
+      "PMTCT-Women identified HIV +ve during": {
+        "required": true
+      },
+      "PMTCT-WHO clinical staging": {
+        "required": true
+      },
+      "PMTCT-Started ART during": {
+        "required": true
+      },
+      
+      "defaults": {
+        "Number of living children": 1,        
+        "Accepted Family Planning methods": [
+          "Condoms",
+          "Pills"
+        ],
+        "OPD-Free health service code":"Not applicable",
+        "OPD-Gender based violence":"No",
+        "OPD-Suspected Tuberculosis Patients":"No",
+        "Referred in":"No",
+        "OPD-Respirotary":"NAD",
+        "OPD-CVS":"NAD",
+        "OPD-CNS":"NAD",
+        "OPD-Per Abdomen":"NAD",
+        "OPD-MusculoSkeletal":"NAD",   
+        "OPD-Skin":"NAD",
+        "OPD-Others":"NAD",
+        "Safe Abortion, Remarks": "Remarks"
+      }
+    },
+    "visitPage": {
+      "observationDisplay": {
+        "conceptNames": []
+      }
+    }
+  }
+}

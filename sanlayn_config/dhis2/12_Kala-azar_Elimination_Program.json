@@ -1,0 +1,263 @@
+{
+    "ou": "mkjer41pShd",
+    "ds": "wQ7v2W4qwVo",
+    "reports": {
+      "12_Kala-azar_Elimination_Program": {
+        "dataValues": [
+          {
+            "_comment": "Patient Type - Within District, below 5 Years, Female",
+            "de": "pvCDKRjZF3S",
+            "co": "fC9QdubWS7J",
+            "row": 1,
+            "column": 2
+          },
+          {
+            "_comment": "Patient Type - Within District, below 5 Years, Male",
+            "de": "pvCDKRjZF3S",
+            "co": "Siv2VqcPxM5",
+            "row": 1,
+            "column": 3
+          },
+          {
+            "_comment": "Patient Type - Within District, 5 Years and above, Female",
+            "de": "pvCDKRjZF3S",
+            "co": "eKxy6tOAhdL",
+            "row": 1,
+            "column": 4
+          },
+          {
+            "_comment": "Patient Type - Within District, 5 Years and above, Male",
+            "de": "pvCDKRjZF3S",
+            "co": "D3LmlY7aHsn",
+            "row": 1,
+            "column": 5
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Indigenous - within District - Method of Diagnosis - RK-39",
+            "de": "lZhLpiaG8vG",
+            "co": "kdsirVNKdhm",
+            "row": 1,
+            "column": 6
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Indigenous - within District - Method of Diagnosis - BM",
+            "de": "hZC8XCdE234",
+            "co": "kdsirVNKdhm",
+            "row": 1,
+            "column": 7
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Indigenous - within District - Method of Diagnosis - SP",
+            "de": "vhXdENrBh8N",
+            "co": "kdsirVNKdhm",
+            "row": 1,
+            "column": 8
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Indigenous - within District - Method of Diagnosis - Other",
+            "de": "O0ylCjJMMLH",
+            "co": "kdsirVNKdhm",
+            "row": 1,
+            "column": 9
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Indigenous - within District - Treated with L,A/M",
+            "de": "NpzwyMp264n",
+            "co": "kdsirVNKdhm",
+            "row": 1,
+            "column": 10
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Indigenous - within District - Treated with Other",
+            "de": "IDYA3yJwgqM",
+            "co": "kdsirVNKdhm",
+            "row": 1,
+            "column": 11
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Indigenous - within District - Deaths - Female",
+            "de": "JjUL1bOsvuq",
+            "co": "ye1QuAMRG5Z",
+            "row": 1,
+            "column": 12
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Indigenous - within District - Deaths - Male",
+            "de": "JjUL1bOsvuq",
+            "co": "PflKpozpO7b",
+            "row": 1,
+            "column": 13
+          },
+          {
+            "_comment": "Patient Type - Outside District, below 5 Years, Female",
+            "de": "pvCDKRjZF3S",
+            "co": "UnV1zhHc16P",
+            "row": 2,
+            "column": 2
+          },
+          {
+            "_comment": "Patient Type - Outside District, below 5 Years, Male",
+            "de": "pvCDKRjZF3S",
+            "co": "ZZu57qwPvcV",
+            "row": 2,
+            "column": 3
+          },
+          {
+            "_comment": "Patient Type - Outside District, 5 Years and above, Female",
+            "de": "pvCDKRjZF3S",
+            "co": "zfYUAw14VXT",
+            "row": 2,
+            "column": 4
+          },
+          {
+            "_comment": "Patient Type - Outside District, 5 Years and above, Male",
+            "de": "pvCDKRjZF3S",
+            "co": "hQn4pn2bwYJ",
+            "row": 2,
+            "column": 5
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Indigenous - Outside District - Method of Diagnosis - RK-39",
+            "de": "ubO6UUS3TXT",
+            "co": "kdsirVNKdhm",
+            "row": 2,
+            "column": 6
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Indigenous - Outside District - Method of Diagnosis - BM",
+            "de": "loYDiUMvWgx",
+            "co": "kdsirVNKdhm",
+            "row": 2,
+            "column": 7
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Indigenous - Outside District - Method of Diagnosis - SP",
+            "de": "CoWza8FhfwR",
+            "co": "kdsirVNKdhm",
+            "row": 2,
+            "column": 8
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Indigenous - Outside District - Method of Diagnosis - Other",
+            "de": "QXeSzTxz72n",
+            "co": "kdsirVNKdhm",
+            "row": 2,
+            "column": 9
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Indigenous - Outside District - Treated with L,A/M",
+            "de": "Zk1ymSyYSzC",
+            "co": "kdsirVNKdhm",
+            "row": 2,
+            "column": 10
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Indigenous - Outside District - Treated with Other",
+            "de": "yBHoNHEcCuR",
+            "co": "kdsirVNKdhm",
+            "row": 2,
+            "column": 11
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Indigenous - Outside District - Deaths - Female",
+            "de": "JmHrJKlAIwQ",
+            "co": "ye1QuAMRG5Z",
+            "row": 2,
+            "column": 12
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Indigenous - Outside District - Deaths - Male",
+            "de": "JmHrJKlAIwQ",
+            "co": "PflKpozpO7b",
+            "row":2,
+            "column": 13
+          },
+          {
+            "_comment": "Patient Type - Foreigner, below 5 Years, Female",
+            "de": "pvCDKRjZF3S",
+            "co": "Vw0L5uwJazt",
+            "row": 3,
+            "column": 2
+          },
+          {
+            "_comment": "Patient Type - Foreigner, below 5 Years, Male",
+            "de": "pvCDKRjZF3S",
+            "co": "njaE7klgjB1",
+            "row": 3,
+            "column": 3
+          },
+          {
+            "_comment": "Patient Type - Foreigner, 5 Years and above, Female",
+            "de": "pvCDKRjZF3S",
+            "co": "spKmmDGnMzU",
+            "row": 3,
+            "column": 4
+          },
+          {
+            "_comment": "Patient Type - Foreigner, 5 Years and above, Male",
+            "de": "pvCDKRjZF3S",
+            "co": "Ksjz2Pmidc5",
+            "row": 3,
+            "column": 5
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Foreigner - Method of Diagnosis - RK-39",
+            "de": "HWd7LiqNQS0",
+            "co": "kdsirVNKdhm",
+            "row": 3,
+            "column": 6
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Foreigner - Method of Diagnosis - BM",
+            "de": "TXcAdO9yJWN",
+            "co": "kdsirVNKdhm",
+            "row": 3,
+            "column": 7
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Foreigner - Method of Diagnosis - SP",
+            "de": "JfYezSXRBAi",
+            "co": "kdsirVNKdhm",
+            "row": 3,
+            "column": 8
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Foreigner - Method of Diagnosis - Other",
+            "de": "JktdCROE9gl",
+            "co": "kdsirVNKdhm",
+            "row": 3,
+            "column": 9
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Foreigner - Treated with L,A/M",
+            "de": "DDiORltwpaH",
+            "co": "kdsirVNKdhm",
+            "row": 3,
+            "column": 10
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Foreigner - Treated with Other",
+            "de": "uMh7L3QDp9H",
+            "co": "kdsirVNKdhm",
+            "row": 3,
+            "column": 11
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Foreigner - Deaths - Female",
+            "de": "xek318O34bl",
+            "co": "ye1QuAMRG5Z",
+            "row": 3,
+            "column": 12
+          },
+          {
+            "_comment": "Kala-azar CP - Patient Type - Foreigner - Deaths - Male",
+            "de": "xek318O34bl",
+            "co": "PflKpozpO7b",
+            "row": 3,
+            "column": 13
+          }
+        ]
+      }
+    }
+  }
+  

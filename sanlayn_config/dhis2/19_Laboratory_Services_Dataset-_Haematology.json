@@ -1,0 +1,170 @@
+{
+	"ou": "mkjer41pShd",
+	"ds": "jZ0ClbXLtgz",
+	"reports": {
+		"19_Laboratory_Services_Dataset- Haematology": {
+			"dataValues": [{
+					"_comment": "Haematology-HB",
+					"co": "kdsirVNKdhm",
+					"de": "MX5XthyOLIX",
+					"row": 1,
+					"column": 3
+				},
+				{
+					"_comment": "Haematology-RBC",
+					"co": "kdsirVNKdhm",
+					"de": "ga8cotZYUGN",
+					"row": 2,
+					"column": 3
+				},
+				{
+					"_comment": "Haematology-TLC",
+					"co": "kdsirVNKdhm",
+					"de": "udHP9cMdus0",
+					"row": 3,
+					"column": 3
+				},
+				{
+					"_comment": "Haematology-Platelets",
+					"co": "kdsirVNKdhm",
+					"de": "HkVFI7zvtco",
+					"row": 4,
+					"column": 3
+				},
+				{
+					"_comment": "Haematology-DLC",
+					"co": "kdsirVNKdhm",
+					"de": "Ks9ADEZCFQd",
+					"row": 5,
+					"column": 3
+				},
+				{
+					"_comment": "Haematology-ESR",
+					"co": "kdsirVNKdhm",
+					"de": "hcN0jcWCBLx",
+					"row": 6,
+					"column": 3
+				},
+				{
+					"_comment": "Haematology-MCV",
+					"co": "kdsirVNKdhm",
+					"de": "o6paypYS2tc",
+					"row": 7,
+					"column": 3
+				},
+				{
+					"_comment": "Haematology-MCH",
+					"co": "kdsirVNKdhm",
+					"de": "kTMrl2nmqdQ",
+					"row": 8,
+					"column": 3
+				},
+				{
+					"_comment": "Haematology-MCHC",
+					"co": "kdsirVNKdhm",
+					"de": "mucJ3LkNOGi",
+					"row": 9,
+					"column": 3
+				},
+				{
+					"_comment": "Haematology- Blood Group test Conducted",
+					"co": "kdsirVNKdhm",
+					"de": "sgR3aHSyj0A",
+					"row": 10,
+					"column": 3
+				},
+				{
+					"_comment": "Haematology- Coombs test Conducted",
+					"co": "kdsirVNKdhm",
+					"de": "V2rLFh947Xk",
+					"row": 11,
+					"column": 3
+				},
+				{
+					"_comment": "Haematology-Retics",
+					"co": "kdsirVNKdhm",
+					"de": "XJcUhKfv6iG",
+					"row": 12,
+					"column": 3
+				},
+				{
+					"_comment": "Haematology-PBS",
+					"co": "kdsirVNKdhm",
+					"de": "IB7pwInGJ2Z",
+					"row": 13,
+					"column": 3
+				},
+				{
+					"_comment": "Haematology-HbA1c",
+					"co": "kdsirVNKdhm",
+					"de": "TPfANsOsI68",
+					"row": 14,
+					"column": 3
+				},
+				{
+					"_comment": "Haematology-Sickling Test",
+					"co": "kdsirVNKdhm",
+					"de": "TWkqsR5UgVd",
+					"row": 15,
+					"column": 3
+				},
+				{
+					"_comment": "Haematology- BT test Conducted",
+					"co": "kdsirVNKdhm",
+					"de": "PEtNspPKfGU",
+					"row": 17,
+					"column": 3
+				},
+				{
+					"_comment": "Haematology- CT test Conducted",
+					"co": "kdsirVNKdhm",
+					"de": "VxCaWebcSNY",
+					"row": 18,
+					"column": 3
+				},
+				{
+					"_comment": "Haematology- PT-INR test Conducted",
+					"co": "kdsirVNKdhm",
+					"de": "hvKJZhQvtlD",
+					"row": 19,
+					"column": 3
+				},
+				{
+					"_comment": "Haematology-APTT",
+					"co": "kdsirVNKdhm",
+					"de": "lQ3GQrEk9mB",
+					"row": 20,
+					"column": 3
+				},
+				{
+					"_comment": "Haematology-MPO",
+					"co": "kdsirVNKdhm",
+					"de": "JWcZvHhr1Wh",
+					"row": 21,
+					"column": 3
+				},
+				{
+					"_comment": "Haematology- D-dimer test Conducted",
+					"co": "kdsirVNKdhm",
+					"de": "roqaipUwNjT",
+					"row": 29,
+					"column": 3
+				},
+				{
+					"_comment": "Haematology- Cross Matching Conducted",
+					"co": "kdsirVNKdhm",
+					"de": "FLukVmXHeQx",
+					"row": 32,
+					"column": 3
+				},
+				{
+					"_comment": "Haematology- Other test Conducted",
+					"co": "kdsirVNKdhm",
+					"de": "ksFMz4c0I39",
+					"row": 33,
+					"column": 3
+				}
+			]
+		}
+	}
+}

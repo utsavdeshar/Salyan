@@ -1,0 +1,1340 @@
+{
+    "ou": "mkjer41pShd",
+    "ds": "muGRlJEYMyJ",
+    "reports": {
+      "Rehab-Clients": {
+        "dataValues": [
+          {
+            " _comment": "Rehab-Clients-New default",
+            "co": "kdsirVNKdhm",
+            "de": "DzLemBZSCN8",
+            "row": 1,
+            "column": 2
+          },
+          {
+            " _comment": "Rehab-Clients-Old default",
+            "co": "kdsirVNKdhm",
+            "de": "KVJoE5FQQfP",
+            "row": 1,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Clients-Foreigner default",
+            "co": "kdsirVNKdhm",
+            "de": "r8zFWgF52T8",
+            "row": 1,
+            "column": 4
+          }
+        ]
+      },
+      "Rehab-Service by Ethnicity": {
+        "dataValues": [
+          {
+            " _comment": "Rehab-Service by Ethnicity Dalit",
+            "co": "L9U3tI7WNAn",
+            "de": "O2MQmwmdFjO",
+            "row": 1,
+            "column": 1
+          },
+          {
+            " _comment": "Rehab-Service by Ethnicity Janjati",
+            "co": "zLIKmL6CLOz",
+            "de": "O2MQmwmdFjO",
+            "row": 1,
+            "column": 2
+          },
+          {
+            " _comment": "Rehab-Service by Ethnicity Madhesi",
+            "co": "axo8zRiLkg8",
+            "de": "O2MQmwmdFjO",
+            "row": 1,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Service by Ethnicity Muslim",
+            "co": "aiXiO0KW5kz",
+            "de": "O2MQmwmdFjO",
+            "row": 1,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Service by Ethnicity Brahmin/Chhetri",
+            "co": "IVNBUxSkGoO",
+            "de": "O2MQmwmdFjO",
+            "row": 1,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Service by Ethnicity Other Caste",
+            "co": "H3AfizhoVk2",
+            "de": "O2MQmwmdFjO",
+            "row": 1,
+            "column": 6
+          }
+        ]
+      },
+      "Rehab-Types of Disability": {
+        "dataValues": [
+          {
+            " _comment": "Rehab-Types of Disability-Physical Female",
+            "co": "fWqT46wDX5G",
+            "de": "hXQG49B9IyT",
+            "row": 1,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Physical Male",
+            "co": "mF1o6p14lxL",
+            "de": "hXQG49B9IyT",
+            "row": 2,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Physical Trans Gender",
+            "co": "YDmqM7oj6C1",
+            "de": "hXQG49B9IyT",
+            "row": 3,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Vision Female",
+            "co": "fWqT46wDX5G",
+            "de": "i2Azb2zxgHt",
+            "row": 1,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Vision Male",
+            "co": "mF1o6p14lxL",
+            "de": "i2Azb2zxgHt",
+            "row": 2,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Vision Trans Gender",
+            "co": "YDmqM7oj6C1",
+            "de": "i2Azb2zxgHt",
+            "row": 3,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Hearing Female",
+            "co": "fWqT46wDX5G",
+            "de": "jmSWGq5MCjP",
+            "row": 1,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Hearing Male",
+            "co": "mF1o6p14lxL",
+            "de": "jmSWGq5MCjP",
+            "row": 2,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Hearing Trans Gender",
+            "co": "YDmqM7oj6C1",
+            "de": "jmSWGq5MCjP",
+            "row": 3,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Deaf-Blind Female",
+            "co": "fWqT46wDX5G",
+            "de": "s4NDqqIQdgs",
+            "row": 1,
+            "column": 6
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Deaf-Blind Male",
+            "co": "mF1o6p14lxL",
+            "de": "s4NDqqIQdgs",
+            "row": 2,
+            "column": 6
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Deaf-Blind Trans Gender",
+            "co": "YDmqM7oj6C1",
+            "de": "s4NDqqIQdgs",
+            "row": 3,
+            "column": 6
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Voice and Speech Female",
+            "co": "fWqT46wDX5G",
+            "de": "gHLfwDAQoO8",
+            "row": 1,
+            "column": 7
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Voice and Speech Male",
+            "co": "mF1o6p14lxL",
+            "de": "gHLfwDAQoO8",
+            "row": 2,
+            "column": 7
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Voice and Speech Trans Gender",
+            "co": "YDmqM7oj6C1",
+            "de": "gHLfwDAQoO8",
+            "row": 3,
+            "column": 7
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Mental/Psycho-social Female",
+            "co": "fWqT46wDX5G",
+            "de": "bglUrPMC3GK",
+            "row": 1,
+            "column": 8
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Mental/Psycho-social Male",
+            "co": "mF1o6p14lxL",
+            "de": "bglUrPMC3GK",
+            "row": 2,
+            "column": 8
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Mental/Psycho-social Trans Gender",
+            "co": "YDmqM7oj6C1",
+            "de": "bglUrPMC3GK",
+            "row": 3,
+            "column": 8
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Intellectual Female",
+            "co": "fWqT46wDX5G",
+            "de": "ELZhH2338nj",
+            "row": 1,
+            "column": 9
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Intellectual Male",
+            "co": "mF1o6p14lxL",
+            "de": "ELZhH2338nj",
+            "row": 2,
+            "column": 9
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Intellectual Trans Gender",
+            "co": "YDmqM7oj6C1",
+            "de": "ELZhH2338nj",
+            "row": 3,
+            "column": 9
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Genetic Bleeding (Hemophilia) Female",
+            "co": "fWqT46wDX5G",
+            "de": "Iry8k890ONy",
+            "row": 1,
+            "column": 10
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Genetic Bleeding (Hemophilia) Male",
+            "co": "mF1o6p14lxL",
+            "de": "Iry8k890ONy",
+            "row": 2,
+            "column": 10
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Genetic Bleeding (Hemophilia) Trans Gender",
+            "co": "YDmqM7oj6C1",
+            "de": "Iry8k890ONy",
+            "row": 3,
+            "column": 10
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Autism Female",
+            "co": "fWqT46wDX5G",
+            "de": "NBcPISOqCnN",
+            "row": 1,
+            "column": 11
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Autism Male",
+            "co": "mF1o6p14lxL",
+            "de": "NBcPISOqCnN",
+            "row": 2,
+            "column": 11
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Autism Trans Gender",
+            "co": "YDmqM7oj6C1",
+            "de": "NBcPISOqCnN",
+            "row": 3,
+            "column": 11
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Multiple Female",
+            "co": "fWqT46wDX5G",
+            "de": "tPlWLUybsTT",
+            "row": 1,
+            "column": 12
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Multiple Male",
+            "co": "mF1o6p14lxL",
+            "de": "tPlWLUybsTT",
+            "row": 2,
+            "column": 12
+          },
+          {
+            " _comment": "Rehab-Types of Disability-Multiple Trans Gender",
+            "co": "YDmqM7oj6C1",
+            "de": "tPlWLUybsTT",
+            "row": 3,
+            "column": 12
+          }
+        ]
+      },
+      "Rehab-Disability Card": {
+        "dataValues": [
+          {
+            " _comment": "Rehab-Disability Card-Ka.Red Female",
+            "co": "fWqT46wDX5G",
+            "de": "pb8nubRqeJs",
+            "row": 1,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Disability Card-Ka.Red Male",
+            "co": "mF1o6p14lxL",
+            "de": "pb8nubRqeJs",
+            "row": 2,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Disability Card-Ka.Red Trans Gender",
+            "co": "YDmqM7oj6C1",
+            "de": "pb8nubRqeJs",
+            "row": 3,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Disability Card-Kha.Blue Female",
+            "co": "fWqT46wDX5G",
+            "de": "E35M5kR36zI",
+            "row": 1,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Disability Card-Kha.Blue Male",
+            "co": "mF1o6p14lxL",
+            "de": "E35M5kR36zI",
+            "row": 2,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Disability Card-Kha.Blue Trans Gender",
+            "co": "YDmqM7oj6C1",
+            "de": "E35M5kR36zI",
+            "row": 3,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Disability Card-Ga.Yellow Female",
+            "co": "fWqT46wDX5G",
+            "de": "xiZPzru2rOj",
+            "row": 1,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Disability Card-Ga.Yellow Male",
+            "co": "mF1o6p14lxL",
+            "de": "xiZPzru2rOj",
+            "row": 2,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Disability Card-Ga.Yellow Trans Gender",
+            "co": "YDmqM7oj6C1",
+            "de": "xiZPzru2rOj",
+            "row": 3,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Disability Card-Gha.White Female",
+            "co": "fWqT46wDX5G",
+            "de": "AYbRvUVte5P",
+            "row": 1,
+            "column": 6
+          },
+          {
+            " _comment": "Rehab-Disability Card-Gha.White Male",
+            "co": "mF1o6p14lxL",
+            "de": "AYbRvUVte5P",
+            "row": 2,
+            "column": 6
+          },
+          {
+            " _comment": "Rehab-Disability Card-Gha.White Trans Gender",
+            "co": "YDmqM7oj6C1",
+            "de": "AYbRvUVte5P",
+            "row": 3,
+            "column": 6
+          }
+        ]
+      },
+      "Rehab-Age group": {
+        "dataValues": [
+          {
+            " _comment": "Rehab-Age group-< 1 Female",
+            "co": "fWqT46wDX5G",
+            "de": "vQfC4mr5dO9",
+            "row": 1,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Age group-< 1 Male",
+            "co": "mF1o6p14lxL",
+            "de": "vQfC4mr5dO9",
+            "row": 2,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Age group-< 1 Trans Gender",
+            "co": "YDmqM7oj6C1",
+            "de": "vQfC4mr5dO9",
+            "row": 3,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Age group-1-5 Female",
+            "co": "fWqT46wDX5G",
+            "de": "sOfxdiAkwKe",
+            "row": 1,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Age group-1-5 Male",
+            "co": "mF1o6p14lxL",
+            "de": "sOfxdiAkwKe",
+            "row": 2,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Age group-1-5 Trans Gender",
+            "co": "YDmqM7oj6C1",
+            "de": "sOfxdiAkwKe",
+            "row": 3,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Age group-6-17 Female",
+            "co": "fWqT46wDX5G",
+            "de": "W19fg7qCW2Q",
+            "row": 1,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Age group-6-17 Male",
+            "co": "mF1o6p14lxL",
+            "de": "W19fg7qCW2Q",
+            "row": 2,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Age group-6-17 Trans Gender",
+            "co": "YDmqM7oj6C1",
+            "de": "W19fg7qCW2Q",
+            "row": 3,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Age group-18-59 Female",
+            "co": "fWqT46wDX5G",
+            "de": "G6CyfcAsi5H",
+            "row": 1,
+            "column": 6
+          },
+          {
+            " _comment": "Rehab-Age group-18-59 Male",
+            "co": "mF1o6p14lxL",
+            "de": "G6CyfcAsi5H",
+            "row": 2,
+            "column": 6
+          },
+          {
+            " _comment": "Rehab-Age group-18-59 Trans Gender",
+            "co": "YDmqM7oj6C1",
+            "de": "G6CyfcAsi5H",
+            "row": 3,
+            "column": 6
+          },
+          {
+            " _comment": "Rehab-Age group->59 Female",
+            "co": "fWqT46wDX5G",
+            "de": "yQp7UsaAJJz",
+            "row": 1,
+            "column": 7
+          },
+          {
+            " _comment": "Rehab-Age group->59 Male",
+            "co": "mF1o6p14lxL",
+            "de": "yQp7UsaAJJz",
+            "row": 2,
+            "column": 7
+          },
+          {
+            " _comment": "Rehab-Age group->59 Trans Gender",
+            "co": "YDmqM7oj6C1",
+            "de": "yQp7UsaAJJz",
+            "row": 3,
+            "column": 7
+          }
+        ]
+      },
+      "Rehab-Functioning": {
+        "dataValues": [
+          {
+            " _comment": "Rehab-Functioning-01.Cognition default",
+            "co": "kdsirVNKdhm",
+            "de": "AzQPgL5OqCG",
+            "row": 1,
+            "column": 2
+          },
+          {
+            " _comment": "Rehab-Functioning-02.Mobility default",
+            "co": "kdsirVNKdhm",
+            "de": "SjBjY2tXUIg",
+            "row": 1,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Functioning-03.Self-care default",
+            "co": "kdsirVNKdhm",
+            "de": "U8nlhGoZRwv",
+            "row": 1,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Functioning-04.Getting Along default",
+            "co": "kdsirVNKdhm",
+            "de": "iNjlmAuK7LH",
+            "row": 1,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Functioning-05.Life Activities default",
+            "co": "kdsirVNKdhm",
+            "de": "Xz7t2aWDZfN",
+            "row": 1,
+            "column": 6
+          },
+          {
+            " _comment": "Rehab-Functioning-06.Participation default",
+            "co": "kdsirVNKdhm",
+            "de": "kK7qcXqst5w",
+            "row": 1,
+            "column": 7
+          }
+        ]
+      },
+      "Rehab-Cause": {
+        "dataValues": [
+          {
+            " _comment": "Rehab-Cause-01.By Birth default",
+            "co": "kdsirVNKdhm",
+            "de": "XwRZPqV4Raz",
+            "row": 1,
+            "column": 2
+          },
+          {
+            " _comment": "Rehab-Cause-02.Accident/Injury default",
+            "co": "kdsirVNKdhm",
+            "de": "nfAebGQ3lSW",
+            "row": 1,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Cause-03.Violence default",
+            "co": "kdsirVNKdhm",
+            "de": "f0xZTj9bUaF",
+            "row": 1,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Cause-04.Non Communicable Disease default",
+            "co": "kdsirVNKdhm",
+            "de": "Ko7FPW5l1hJ",
+            "row": 1,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Cause-05.Communicable Disease default",
+            "co": "kdsirVNKdhm",
+            "de": "kpVG39df6dm",
+            "row": 1,
+            "column": 6
+          },
+          {
+            " _comment": "Rehab-Cause-06.Bone Degeneration default",
+            "co": "kdsirVNKdhm",
+            "de": "hRsIrigsd0s",
+            "row": 1,
+            "column": 7
+          },
+          {
+            " _comment": "Rehab-Cause-07.Others default",
+            "co": "kdsirVNKdhm",
+            "de": "LJpY3GjNnUe",
+            "row": 1,
+            "column": 8
+          },
+          {
+            " _comment": "Rehab-Cause-08.UnKnown default",
+            "co": "kdsirVNKdhm",
+            "de": "RM1lp67uyBj",
+            "row": 1,
+            "column": 9
+          }
+        ]
+      },
+      "Rehab-Type of services": {
+        "dataValues": [
+          {
+            " _comment": "Rehab-Service-01.Physiotherapy default",
+            "co": "kdsirVNKdhm",
+            "de": "icQ8Vi3zjKl",
+            "row": 1,
+            "column": 2
+          },
+          {
+            " _comment": "Rehab-Service-02.Speech Therapy default",
+            "co": "kdsirVNKdhm",
+            "de": "vmI6G1Krstl",
+            "row": 1,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Service-03.Occupation Therapy default",
+            "co": "kdsirVNKdhm",
+            "de": "TUplUNpkLft",
+            "row": 1,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Service-04.Assistive Devices default",
+            "co": "kdsirVNKdhm",
+            "de": "rpZ3KKVsvFH",
+            "row": 1,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Service-Clinical-PM and R default",
+            "co": "kdsirVNKdhm",
+            "de": "ZAC00I4iK9A",
+            "row": 1,
+            "column": 6
+          },
+          {
+            " _comment": "Rehab-Service-Clinical-Other default",
+            "co": "kdsirVNKdhm",
+            "de": "lwTPueFYw9j",
+            "row": 1,
+            "column": 7
+          },
+          {
+            " _comment": "Rehab-Service-05.Counseling default",
+            "co": "kdsirVNKdhm",
+            "de": "Si7eruOpixV",
+            "row": 1,
+            "column": 8
+          },
+          {
+            " _comment": "Rehab-Service-06.Others default",
+            "co": "kdsirVNKdhm",
+            "de": "Th84cRNWvNU",
+            "row": 1,
+            "column": 9
+          }
+        ]
+      },
+      "Rehab-Assistive Devices Need and Received": {
+        "dataValues": [
+          {
+            " _comment": "Rehab-Assistive Devices Need-Mobility Aid default",
+            "co": "kdsirVNKdhm",
+            "de": "PFtZerwPqH5",
+            "row": 1,
+            "column": 2
+          },
+          {
+            " _comment": "Rehab-Assistive Devices Need-Vision related default",
+            "co": "kdsirVNKdhm",
+            "de": "icy5vxAY9cc",
+            "row": 1,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Assistive Devices Need-Speech and Hearing related default",
+            "co": "kdsirVNKdhm",
+            "de": "WSGNYb3ufJg",
+            "row": 1,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Assistive Devices Need-Communication default",
+            "co": "kdsirVNKdhm",
+            "de": "w44s0tUiS5m",
+            "row": 1,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Assistive Devices Need-Ability to Understand default",
+            "co": "kdsirVNKdhm",
+            "de": "R2TnbyD5rk3",
+            "row": 1,
+            "column": 6
+          },
+          {
+            " _comment": "Rehab-Assistive Devices Need-Environment default",
+            "co": "kdsirVNKdhm",
+            "de": "GfQE0eKIlxu",
+            "row": 1,
+            "column": 7
+          },
+          {
+            " _comment": "Rehab-Assistive Devices Received-Mobility Aid default",
+            "co": "kdsirVNKdhm",
+            "de": "s7XLNHdU4Tk",
+            "row": 2,
+            "column": 2
+          },
+          {
+            " _comment": "Rehab-Assistive Devices Received-Vision related default",
+            "co": "kdsirVNKdhm",
+            "de": "CYVVtPQoqpO",
+            "row": 2,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Assistive Devices Received-Speech and Hearing related default",
+            "co": "kdsirVNKdhm",
+            "de": "ymB83fn7voC",
+            "row": 2,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Assistive Devices Received-Communication default",
+            "co": "kdsirVNKdhm",
+            "de": "yX8EVQU0DYs",
+            "row": 2,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Assistive Devices Received-Ability to Understand default",
+            "co": "kdsirVNKdhm",
+            "de": "l4H5eEZQQRc",
+            "row": 2,
+            "column": 6
+          },
+          {
+            " _comment": "Rehab-Assistive Devices Received-Environment default",
+            "co": "kdsirVNKdhm",
+            "de": "a7PQ6qEXW4W",
+            "row": 2,
+            "column": 7
+          }
+        ]
+      },
+      "Rehab-Diagnosis": {
+        "dataValues": [
+          {
+            " _comment": "Rehab-Diagnosis-Certain infectious and parasitic diseases default",
+            "co": "kdsirVNKdhm",
+            "de": "HePg4zAw6tC",
+            "row": 1,
+            "column": 2
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Neoplasms default",
+            "co": "kdsirVNKdhm",
+            "de": "Bxr5xyA9gQD",
+            "row": 1,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Disease of the blood or blood-forming organs default",
+            "co": "kdsirVNKdhm",
+            "de": "kiDh8pobjkq",
+            "row": 1,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Disease of the immune system default",
+            "co": "kdsirVNKdhm",
+            "de": "Q3qUNNHE01m",
+            "row": 1,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Endocrine, nutritional and metabolic diseases default",
+            "co": "kdsirVNKdhm",
+            "de": "rCOe2Up4rfz",
+            "row": 1,
+            "column": 6
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Mental, behavioral or neurodevelopmental disorders default",
+            "co": "kdsirVNKdhm",
+            "de": "GakFdGgilTS",
+            "row": 1,
+            "column": 7
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Sleep-wake disorders default",
+            "co": "kdsirVNKdhm",
+            "de": "JAj9ygLmghj",
+            "row": 1,
+            "column": 8
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Diseases of the nervous system default",
+            "co": "kdsirVNKdhm",
+            "de": "F0om1BoEydn",
+            "row": 1,
+            "column": 9
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Diseases of the visual system default",
+            "co": "kdsirVNKdhm",
+            "de": "PSJ1hxz2hb8",
+            "row": 1,
+            "column": 10
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Diseases of the ear and mastoid process default",
+            "co": "kdsirVNKdhm",
+            "de": "ocnKoomuvah",
+            "row": 1,
+            "column": 11
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Diseases of the circulatory system default",
+            "co": "kdsirVNKdhm",
+            "de": "dQwkYOJrZ1F",
+            "row": 1,
+            "column": 12
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Diseases of the respiratory system default",
+            "co": "kdsirVNKdhm",
+            "de": "wchHz4dqL4x",
+            "row": 1,
+            "column": 13
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Disease of digestive system default",
+            "co": "kdsirVNKdhm",
+            "de": "W0PfT3jfhsT",
+            "row": 1,
+            "column": 14
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Disease of Skin default",
+            "co": "kdsirVNKdhm",
+            "de": "r1JIx28Rpxz",
+            "row": 1,
+            "column": 15
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Diseases of the musculoskeletal system and connective tissue default",
+            "co": "kdsirVNKdhm",
+            "de": "JfrTXISlgjL",
+            "row": 1,
+            "column": 16
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Diseases of the genitourinary system default",
+            "co": "kdsirVNKdhm",
+            "de": "K8ALmTzME81",
+            "row": 1,
+            "column": 17
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Conditions related to sexual health default",
+            "co": "kdsirVNKdhm",
+            "de": "yvybLHaNlVA",
+            "row": 1,
+            "column": 18
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Pregnancy, child birth of the puerperium default",
+            "co": "kdsirVNKdhm",
+            "de": "Y8DfDiiotif",
+            "row": 1,
+            "column": 19
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Certain conditions originating in the perinatal period default",
+            "co": "kdsirVNKdhm",
+            "de": "RTRSLuhAztU",
+            "row": 1,
+            "column": 20
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Developmental anamoly default",
+            "co": "kdsirVNKdhm",
+            "de": "pir8hxBZSsG",
+            "row": 1,
+            "column": 21
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified default",
+            "co": "kdsirVNKdhm",
+            "de": "sHJ4mfpJmaD",
+            "row": 1,
+            "column": 22
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Injury, poisoning and certain other consequences of external causes default",
+            "co": "kdsirVNKdhm",
+            "de": "JDuUq1XB7DR",
+            "row": 1,
+            "column": 23
+          },
+          {
+            " _comment": "Rehab-Diagnosis-External causes of morbidity or mortality default",
+            "co": "kdsirVNKdhm",
+            "de": "hLGPOBxaJgI",
+            "row": 1,
+            "column": 24
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Factors influencing health status or contact with health service default",
+            "co": "kdsirVNKdhm",
+            "de": "lHQeMbeefwr",
+            "row": 1,
+            "column": 25
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Codes of special purposes default",
+            "co": "kdsirVNKdhm",
+            "de": "Ia3Cd9Y9Mor",
+            "row": 1,
+            "column": 26
+          },
+          {
+            " _comment": "Rehab-Diagnosis-Supplementary chapter traditional medicine conditions default",
+            "co": "kdsirVNKdhm",
+            "de": "ySjbyW2qEy5",
+            "row": 1,
+            "column": 27
+          }
+        ]
+      },
+      "Rehab-Assistive Devices Source": {
+        "dataValues": [
+          {
+            " _comment": "Rehab-Assistive Devices Source-Hospital default",
+            "co": "kdsirVNKdhm",
+            "de": "pvcYSgCDo2j",
+            "row": 1,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Assistive Devices Source-Other Government Offices default",
+            "co": "kdsirVNKdhm",
+            "de": "lsskMFt8dwT",
+            "row": 1,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Assistive Devices Source-Other Organization default",
+            "co": "kdsirVNKdhm",
+            "de": "UX7QuAvzQta",
+            "row": 1,
+            "column": 6
+          },
+          {
+            " _comment": "Rehab-Assistive Devices Source-Rehabilitation Center default",
+            "co": "kdsirVNKdhm",
+            "de": "yooPSWfeaTj",
+            "row": 1,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Assistive Devices Source-Self Purchased default",
+            "co": "kdsirVNKdhm",
+            "de": "yFaX2sJWBsS",
+            "row": 1,
+            "column": 2
+          }
+        ]
+      },
+      "Rehab-Referral Internal": {
+        "dataValues": [
+          {
+            " _comment": "Rehab-Referral-Referred In (health facility) OPD",
+            "co": "VbHsYEvPfiV",
+            "de": "mPpALZZMDLp",
+            "row": 1,
+            "column": 2
+          },
+          {
+            " _comment": "Rehab-Referral-Referred In (health facility) IPD",
+            "co": "TzNlnH61XxD",
+            "de": "mPpALZZMDLp",
+            "row": 1,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Referral-Referred In (health facility) CBIMNCI",
+            "co": "n7SJ8vIRks5",
+            "de": "mPpALZZMDLp",
+            "row": 1,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Referral-Referred In (health facility) Nutrition",
+            "co": "iYA88KYIqW7",
+            "de": "mPpALZZMDLp",
+            "row": 1,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Referral-Referred In (health facility) Immunization",
+            "co": "zHFfSgK4h4k",
+            "de": "mPpALZZMDLp",
+            "row": 1,
+            "column": 6
+          },
+          {
+            " _comment": "Rehab-Referral-Referred In (health facility) Safe Motherhood",
+            "co": "GJCI3xh16ha",
+            "de": "mPpALZZMDLp",
+            "row": 1,
+            "column": 7
+          },
+          {
+            " _comment": "Rehab-Referral-Referred In (health facility) PEN",
+            "co": "zAj3hRweP1N",
+            "de": "mPpALZZMDLp",
+            "row": 1,
+            "column": 8
+          },
+          {
+            " _comment": "Rehab-Referral-Referred In (health facility) PHC/ORC",
+            "co": "yYsRwBW8Kel",
+            "de": "mPpALZZMDLp",
+            "row": 1,
+            "column": 9
+          },
+          {
+            " _comment": "Rehab-Referral-Referred In (health facility) Other",
+            "co": "aGz7D54uNp2",
+            "de": "mPpALZZMDLp",
+            "row": 1,
+            "column": 10
+          },
+          {
+            " _comment": "Rehab-Referral-Referred Out (health facility) OPD",
+            "co": "VbHsYEvPfiV",
+            "de": "lxQaPY4W4Tm",
+            "row": 2,
+            "column": 2
+          },
+          {
+            " _comment": "Rehab-Referral-Referred Out (health facility) IPD",
+            "co": "TzNlnH61XxD",
+            "de": "lxQaPY4W4Tm",
+            "row": 2,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Referral-Referred Out (health facility) CBIMNCI",
+            "co": "n7SJ8vIRks5",
+            "de": "lxQaPY4W4Tm",
+            "row": 2,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Referral-Referred Out (health facility) Nutrition",
+            "co": "iYA88KYIqW7",
+            "de": "lxQaPY4W4Tm",
+            "row": 2,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Referral-Referred Out (health facility) Immunization",
+            "co": "zHFfSgK4h4k",
+            "de": "lxQaPY4W4Tm",
+            "row": 2,
+            "column": 6
+          },
+          {
+            " _comment": "Rehab-Referral-Referred Out (health facility) Safe Motherhood",
+            "co": "GJCI3xh16ha",
+            "de": "lxQaPY4W4Tm",
+            "row": 2,
+            "column": 7
+          },
+          {
+            " _comment": "Rehab-Referral-Referred Out (health facility) PEN",
+            "co": "zAj3hRweP1N",
+            "de": "lxQaPY4W4Tm",
+            "row": 2,
+            "column": 8
+          },
+          {
+            " _comment": "Rehab-Referral-Referred Out (health facility) PHC/ORC",
+            "co": "yYsRwBW8Kel",
+            "de": "lxQaPY4W4Tm",
+            "row": 2,
+            "column": 9
+          },
+          {
+            " _comment": "Rehab-Referral-Referred Out (health facility) Other",
+            "co": "aGz7D54uNp2",
+            "de": "lxQaPY4W4Tm",
+            "row": 2,
+            "column": 10
+          }
+        ]
+      },
+      "Rehab-Sessions Received": {
+        "dataValues": [
+          {
+            " _comment": "Rehab-Sessions Received-1 default",
+            "co": "kdsirVNKdhm",
+            "de": "joL8CiMVExn",
+            "row": 1,
+            "column": 1
+          },
+          {
+            " _comment": "Rehab-Sessions Received-2-15 default",
+            "co": "kdsirVNKdhm",
+            "de": "HmODSef5NWu",
+            "row": 1,
+            "column": 2
+          },
+          {
+            " _comment": "Rehab-Sessions Received-16-39 default",
+            "co": "kdsirVNKdhm",
+            "de": "lTibpJi1zlx",
+            "row": 1,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Sessions Received-40-69 default",
+            "co": "kdsirVNKdhm",
+            "de": "VFU4RYHaGGu",
+            "row": 1,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Sessions Received - >69 default",
+            "co": "kdsirVNKdhm",
+            "de": "yhTKcRomkyA",
+            "row": 1,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Sessions Received-Total default",
+            "co": "kdsirVNKdhm",
+            "de": "BgCgL27hSST",
+            "row": 1,
+            "column": 6
+          }
+        ]
+      },
+      "Rehab-Referral External": {
+        "dataValues": [
+          {
+            " _comment": "Rehab-Referral-Referred In (Other organisation/people) Central/Provincial Hospital",
+            "co": "FpqXFPGqicM",
+            "de": "mzgHfjuZpdG",
+            "row": 1,
+            "column": 2
+          },
+          {
+            " _comment": "Rehab-Referral-Referred In (Other organisation/people) Primary Secondary Hospital",
+            "co": "FEMycL1LMpk",
+            "de": "mzgHfjuZpdG",
+            "row": 1,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Referral-Referred In (Other organisation/people) Primary Health Care Center",
+            "co": "fLZqD2Ztn5l",
+            "de": "mzgHfjuZpdG",
+            "row": 1,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Referral-Referred In (Other organisation/people) Health Post",
+            "co": "WFzg10bTBRQ",
+            "de": "mzgHfjuZpdG",
+            "row": 1,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Referral-Referred In (Other organisation/people) Urban Health Clinic",
+            "co": "Lq2hxSogNwK",
+            "de": "mzgHfjuZpdG",
+            "row": 1,
+            "column": 6
+          },
+          {
+            " _comment": "Rehab-Referral-Referred In (Other organisation/people) Community Health Clinic",
+            "co": "DKkFbaqDYRY",
+            "de": "mzgHfjuZpdG",
+            "row": 1,
+            "column": 7
+          },
+          {
+            " _comment": "Rehab-Referral-Referred In (Other organisation/people) FCHV",
+            "co": "zCs6vFu2CNG",
+            "de": "mzgHfjuZpdG",
+            "row": 1,
+            "column": 8
+          },
+          {
+            " _comment": "Rehab-Referral-Referred In (Other organisation/people) Rehab Center",
+            "co": "kiglBfXIZ5Z",
+            "de": "mzgHfjuZpdG",
+            "row": 1,
+            "column": 9
+          },
+          {
+            " _comment": "Rehab-Referral-Referred In (Other organisation/people) Disabled People Organization",
+            "co": "V3AB0wUW4xg",
+            "de": "mzgHfjuZpdG",
+            "row": 1,
+            "column": 10
+          },
+          {
+            " _comment": "Rehab-Referral-Referred In (Other organisation/people) Other Clients",
+            "co": "toSjsJ6EU2o",
+            "de": "mzgHfjuZpdG",
+            "row": 1,
+            "column": 11
+          },
+          {
+            " _comment": "Rehab-Referral-Referred In (Other organisation/people) Other",
+            "co": "ZJ81MeaOg4f",
+            "de": "mzgHfjuZpdG",
+            "row": 1,
+            "column": 12
+          },
+          {
+            " _comment": "Rehab-Referral-Referred Out (Other organisation/people) Central/Provincial Hospital",
+            "co": "FpqXFPGqicM",
+            "de": "Fc5KSpXBKLa",
+            "row": 2,
+            "column": 2
+          },
+          {
+            " _comment": "Rehab-Referral-Referred Out (Other organisation/people) Primary Secondary Hospital",
+            "co": "FEMycL1LMpk",
+            "de": "Fc5KSpXBKLa",
+            "row": 2,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Referral-Referred Out (Other organisation/people) Primary Health Care Center",
+            "co": "fLZqD2Ztn5l",
+            "de": "Fc5KSpXBKLa",
+            "row": 2,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Referral-Referred Out (Other organisation/people) Health Post",
+            "co": "WFzg10bTBRQ",
+            "de": "Fc5KSpXBKLa",
+            "row": 2,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Referral-Referred Out (Other organisation/people) Urban Health Clinic",
+            "co": "Lq2hxSogNwK",
+            "de": "Fc5KSpXBKLa",
+            "row": 2,
+            "column": 6
+          },
+          {
+            " _comment": "Rehab-Referral-Referred Out (Other organisation/people) Community Health Clinic",
+            "co": "DKkFbaqDYRY",
+            "de": "Fc5KSpXBKLa",
+            "row": 2,
+            "column": 7
+          },
+          {
+            " _comment": "Rehab-Referral-Referred Out (Other organisation/people) FCHV",
+            "co": "zCs6vFu2CNG",
+            "de": "Fc5KSpXBKLa",
+            "row": 2,
+            "column": 8
+          },
+          {
+            " _comment": "Rehab-Referral-Referred Out (Other organisation/people) Rehab Center",
+            "co": "kiglBfXIZ5Z",
+            "de": "Fc5KSpXBKLa",
+            "row": 2,
+            "column": 9
+          },
+          {
+            " _comment": "Rehab-Referral-Referred Out (Other organisation/people) Disabled People Organization",
+            "co": "V3AB0wUW4xg",
+            "de": "Fc5KSpXBKLa",
+            "row": 2,
+            "column": 10
+          },
+          {
+            " _comment": "Rehab-Referral-Referred Out (Other organisation/people) Other Clients",
+            "co": "toSjsJ6EU2o",
+            "de": "Fc5KSpXBKLa",
+            "row": 2,
+            "column": 11
+          },
+          {
+            " _comment": "Rehab-Referral-Referred Out (Other organisation/people) Other",
+            "co": "ZJ81MeaOg4f",
+            "de": "Fc5KSpXBKLa",
+            "row": 2,
+            "column": 12
+          }
+        ]
+      },
+      "Day wise service count": {
+        "dataValues": [
+          {
+            " _comment": "Rehab-Service Received Days-1 default",
+            "co": "kdsirVNKdhm",
+            "de": "uDoT6unDLHT",
+            "row": 1,
+            "column": 2
+          },
+          {
+            " _comment": "Rehab-Service Received Days-2-7 default",
+            "co": "kdsirVNKdhm",
+            "de": "qij15NT6J37",
+            "row": 1,
+            "column": 3
+          },
+          {
+            " _comment": "Rehab-Service Received Days-8-15 default",
+            "co": "kdsirVNKdhm",
+            "de": "hWibdiir59v",
+            "row": 1,
+            "column": 4
+          },
+          {
+            " _comment": "Rehab-Service Received Days-16-30 default",
+            "co": "kdsirVNKdhm",
+            "de": "e8vV0sWWE0L",
+            "row": 1,
+            "column": 5
+          },
+          {
+            " _comment": "Rehab-Service Received Days->30 default",
+            "co": "kdsirVNKdhm",
+            "de": "Uut8IRMnCLt",
+            "row": 1,
+            "column": 6
+          }
+        ]
+      }
+    }
+  }

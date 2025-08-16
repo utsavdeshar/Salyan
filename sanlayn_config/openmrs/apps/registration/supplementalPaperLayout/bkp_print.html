@@ -1,0 +1,52 @@
+<link rel="stylesheet" href="/bahmni_config/openmrs/apps/registration/supplementalPaperLayout/css/print.css"/>
+<div>
+    <style>
+    </style>
+    <div class="row fontForSticker">
+        <!-- <div class="left"> -->
+
+            <div class="row">
+                <div class="left"><b>{{patient.primaryIdentifier.identifier}}</b></div>
+                
+                <div class="right">Date:&nbsp;<span style="text-align:right;" id="todayDate">{{today | date:'dd/MM/yyyy'}}</span></div>
+                <!-- <span style="text-align:left;"><b>{{patient.primaryIdentifier.identifier}}</b></span>
+		        Date:&nbsp;<span style="text-align:right;" id="todayDate">{{today | date:'dd/MM/yyyy'}}</span> -->
+            </div>	
+            <div class="row">
+                <span><b>NHIS {{patient['NHIS Number']}}</b></span>
+            </div>	
+
+            <div class="row">
+                <span><strong>{{patient.fullNameLocal()}}</strong></span>
+            </div>
+            <div ng-switch on="patient.gender" class="row">
+                <span>
+                    ({{patient.age.years}}Y {{patient.age.months}}M {{patient.age.days}}D,
+                </span>
+                
+                <span ng-switch-when="M">
+                    Male)
+                </span>
+                <span ng-switch-when="F">
+                    Female)
+                </span>
+            </div>
+            <div class="row">
+                <span>{{patient.address.cityVillage}}</span>
+                <span>{{patient.address.address1}}</span>
+                <span>{{patient.address.countyDistrict}}</span>
+            </div>
+
+            <div class="row dept">
+                <div class="left">Department:&nbsp; <span style="text-align:left;"><strong>{{obs['Department Sent To'][0].value}}</strong></span></div>
+                <div class="right">		Charge:&nbsp;<span style="text-align:rigt;">{{visitTypePrice}}</span>
+                </div>
+               <!-- Department:&nbsp; <span style="text-align:left;"><strong>{{obs['Department Sent To'][0].value}}</strong></span>
+		Charge:&nbsp;<span style="text-align:rigt;">{{visitTypePrice}}</span> -->
+            </div>
+        </div>
+    </div>
+
+<script src="/bahmni_config/openmrs/apps/registration/supplementalPaperLayout/js/jquery.js"></script>
+<script src="/bahmni_config/openmrs/apps/registration/supplementalPaperLayout/js/nepaliDatePicker.min.js"></script>
+<script src="/bahmni_config/openmrs/apps/registration/supplementalPaperLayout/js/printwala.js"></script>

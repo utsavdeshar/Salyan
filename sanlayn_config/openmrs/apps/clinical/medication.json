@@ -1,0 +1,215 @@
+{
+  "shouldOverRideConfig": true,
+  "commonConfig": {
+  },
+  "tabConfig": {
+    "nonTabConfig": {
+      "hideBulkChangeDurationButton": true,
+      "inputOptionsConfig": {
+        "duration": {
+          "required": false 
+        },
+        "drugConceptSet": "All Other Orders",
+        "isDropDown": false,
+		"hideOrderSet" : true,
+        "dosingInstructions": [
+          "As directed",
+          "Before meals"
+        ],
+		"doseUnits": [
+          "IU"
+        ],
+        "dispensingUnits": [],
+        "hiddenFields": [
+          "dosingTypeToggle",
+          "duration",
+          "durationUnits",
+          "dosingInstructions",
+          "dose",
+          "frequency",
+          "startDate",
+          "frequencyUnits",
+          "sos",
+          "route",
+          "routes",
+		  "dispensingUnits",
+		  "defaultDurationUnit",
+		  "frequencyDefaultDurationUnitsMap"
+		],
+        "defaultStartDate": true,
+        "defaultDurationUnit": "Day(s)",
+        "defaultInstructions": "As directed",
+        "drugFormDefaults": { 
+			"Tablet": {
+            "doseUnits": "IU",
+            "route": "Oral"
+          }
+		}
+         
+
+      }
+    },
+	
+	
+  "allMedicationTabConfig": {
+      "inputOptionsConfig": {
+		
+        "drugConceptSet": "All Other Drugs",
+        "defaultDurationUnit": "Day(s)",
+        "hideOrderSet": false,
+        "defaultInstructions": "As directed",
+        "frequencyDefaultDurationUnitsMap": [{
+            "minFrequency": "1/7",
+            "maxFrequency": 5,
+            "defaultDurationUnit": "Day(s)"
+          },
+          {
+            "minFrequency": "1/30",
+            "maxFrequency": "1/7",
+            "defaultDurationUnit": "Week(s)"
+          },
+          {
+            "minFrequency": null,
+            "maxFrequency": "1/30",
+            "defaultDurationUnit": "Month(s)"
+          }
+        ],
+        "routes": [
+          "Intramuscular",
+          "Nasal",
+          "Topical",
+          "Intraosseous",
+          "Intrathecal",
+          "Intraperitoneal",
+          "Intradermal",
+          "Nasogastric",
+          "Sub Lingual",
+          "Per Rectum",
+          "Sub Cutaneous",
+          "Per Vaginal",
+          "Oral",
+          "Intravenous",
+          "Inhalation"
+        ],
+        "doseUnits": [
+          "Teaspoon",
+          "Tablespoon",
+          "Capsule(s)",
+          "Drop",
+          "Unit(s)",
+          "Puff(s)",
+          "mg",
+          "ml",
+          "Tablet(s)",
+          "IU",
+	  "ftu",
+	  "mg/ml"
+        ],
+        "drugFormDefaults": {
+          "Suspension": {
+            "doseUnits": "ml",
+            "route": "Oral"
+          },
+          "Oral Rinse": {
+            "doseUnits": "ml",
+            "route": "Oral"
+          },
+          "Mouth Paint": {
+            "route": "Topical"
+          },
+          "Rotacap": {
+            "route": "Inhalation"
+          },
+          "Nasal Solution": {
+            "doseUnits": "Drop",
+            "route": "Topical"
+          },
+          "Oral Solution": {
+            "doseUnits": "ml",
+            "route": "Oral"
+          },
+          "Ayurvedic": {
+            "doseUnits": "Teaspoon",
+            "route": "Oral"
+          },
+          "Capsule": {
+            "doseUnits": "Capsule(s)",
+            "route": "Oral"
+          },
+          "Cream": {
+	    "doseUnits": "ftu",
+            "route": "Topical"
+          },
+          "Drops": {
+            "doseUnits": "Drop",
+            "route": "Topical"
+          },
+          "Food Supplement": {
+            "doseUnits": "Unit(s)",
+            "route": "Oral"
+          },
+          "Gel": {
+	    "doseUnits": "ftu",
+            "route": "Topical"
+          },
+          "Granule": {
+            "doseUnits": "Unit(s)",
+            "route": "Oral"
+          },
+          "Inhaler": {
+            "doseUnits": "Puff(s)",
+            "route": "Inhalation"
+          },
+          "Injection": {
+            "doseUnits": "mg/ml",
+            "route": "Intravenous"
+          },
+          "Jelly": {
+	    "doseUnits": "ftu",
+            "route": "Topical"
+          },
+          "Liquid": {
+            "doseUnits": "ml",
+            "route": "Oral"
+          },
+          "Lotion": {
+	    "doseUnits": "ftu",
+            "route": "Topical"
+          },
+          "Ointment": {
+	    "doseUnits": "ftu",
+            "route": "Topical"
+          },
+          "Pessary": {
+            "doseUnits": "Unit(s)",
+            "route": "Per Vaginal"
+          },
+          "Powder": {
+            "doseUnits": "mg",
+            "route": "Topical"
+          },
+          "Solution": {
+            "doseUnits": "ml",
+            "route": "Topical"
+          },
+          "Spray": {
+            "doseUnits": "Puff(s)",
+            "route": "Nasal"
+          },
+          "Syrup": {
+            "doseUnits": "ml",
+            "route": "Oral"
+          },
+          "Tablet": {
+            "doseUnits": "Tablet(s)",
+            "route": "Oral"
+          }
+        },
+        "routesToMakeDoseSectionNonMandatory": ["Topical", "Inhalation"]
+      },
+      "drugOrderHistoryConfig": {
+        "view": "default"
+      }
+    }
+  }
+}

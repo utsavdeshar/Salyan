@@ -1,0 +1,115 @@
+{
+  "ou": "mkjer41pShd",
+  "ds": "jZ0ClbXLtgz",
+  "reports": {
+    "19_Laboratory_Services_Dataset- Immunology": {
+      "dataValues": [
+        {
+          "_comment": "Immunlogy-Pregnancy-Test",
+          "co": "kdsirVNKdhm",
+          "de": "R5coLEZO6gu",
+          "row": 1,
+          "column": 3
+        },
+        {
+          "_comment": "Immunology-ASO",
+          "co": "kdsirVNKdhm",
+          "de": "Bdh8yF2CdD8",
+          "row": 2,
+          "column": 3
+        },
+        {
+          "_comment": "Immunlogy-CRP",
+          "co": "kdsirVNKdhm",
+          "de": "biBCfb3VTLe",
+          "row": 3,
+          "column": 3
+        },
+        {
+          "_comment": "Immunology-RA-Factor",
+          "co": "kdsirVNKdhm",
+          "de": "NHUktqhJjbE",
+          "row": 4,
+          "column": 3
+        },
+        {
+          "_comment": "Immunology-RPR-VDRL-total test Conducted",
+          "co": "kdsirVNKdhm",
+          "de": "llvGO9epm7O",
+          "row": 5,
+          "column": 3
+        },
+        {
+          "_comment": "Immunology-RPR-VDRL-positive test Conducted",
+          "co": "kdsirVNKdhm",
+          "de": "mhrHV87Zc9U",
+          "row": 5,
+          "column": 4
+        },
+        {
+          "_comment": "Immunology-RK-39 total",
+          "co": "A0ezJDD4TfL",
+          "de": "Vjdjtgx1vez",
+          "row": 6,
+          "column": 3
+        },
+        {
+          "_comment": "Immunology-RK-39 positive",
+          "co": "wCvNkhhbSbl",
+          "de": "Vjdjtgx1vez",
+          "row": 6,
+          "column": 4
+        },
+        {
+          "_comment": "Immunology-Dengue total",
+          "co": "A0ezJDD4TfL",
+          "de": "ci7ny20DDx5",
+          "row": 7,
+          "column": 3
+        },
+        {
+          "_comment": "Immunology-Dengue positive",
+          "co": "kdsirVNKdhm",
+          "de": "rXWBtyTUZQT",
+          "row": 7,
+          "column": 4
+        },
+        {
+          "_comment": "Immunology-Rapid MP Test",
+          "co": "kdsirVNKdhm",
+          "de": "FxeXI2YccuG",
+          "row": 8,
+          "column": 3
+        },
+        {
+          "_comment": "Immunology-Mantoux",
+          "co": "kdsirVNKdhm",
+          "de": "iR2RIlfklv4",
+          "row": 9,
+          "column": 3
+        },
+        {
+          "_comment": "Immunology-Scrub typhus",
+          "co": "kdsirVNKdhm",
+          "de": "IlNmTeeBikM",
+          "row": 10,
+          "column": 3
+        },
+        {
+          "_comment": "Immunology-H. Pylori",
+          "co": "kdsirVNKdhm",
+          "de": "ruFgBQtcLeT",
+          "row": 11,
+          "column": 3
+        },
+        {
+          "_comment": "Immunology-Other",
+          "co": "kdsirVNKdhm",
+          "de": "qdCl7C4jfvE",
+          "row": 12,
+          "column": 3
+        }
+      ]
+    }
+  }
+}

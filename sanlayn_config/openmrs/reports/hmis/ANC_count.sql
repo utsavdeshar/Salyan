@@ -1,0 +1,1 @@
+select count(*) as 'Number of ANC' from obs where concept_id=6813 and date(obs_datetime) between '#startDate#' and '#endDate#';

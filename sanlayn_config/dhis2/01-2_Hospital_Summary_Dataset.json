@@ -1,0 +1,491 @@
+{
+  "ou": "mkjer41pShd",
+  "ds":"CjuEkVeLgsT",
+  "reports": {
+    "Hospital Services - OPD clients served": {
+      "dataValues": [    						 
+        {
+          " _comment": "New Clients Served 0 to 9 Years, Female",
+          "co": "I1gylzOskBs",
+          "de": "HscG3R78Jzc",
+          "row": 1,
+          "column": 2
+        },
+        {
+          " _comment": "New Clients Served 0 to 9 Years, Male",
+		      "co": "TTNFd2X49S6",
+		      "de": "HscG3R78Jzc",
+          "row": 1,
+          "column": 3
+        },
+        {
+          " _comment": "New Clients Served 10 to 14 Yrs, Female",
+          "co": "ciTvZ1HjQTw",
+          "de": "HscG3R78Jzc",
+          "row": 2,
+          "column": 2
+        },
+        {
+          " _comment": "New Clients Served 10 to 14 Yrs, Male",
+          "co": "SDgsEKTs0IH",
+          "de": "HscG3R78Jzc",
+          "row": 2,
+          "column": 3
+        },
+        {
+          " _comment": "New Clients Served 15 to 19 Yrs, Female",
+          "co": "RnH2ZpATWSI",
+          "de": "HscG3R78Jzc",
+          "row": 3,
+          "column": 2
+        },
+        {
+          " _comment": "New Clients Served 15 to 19 Yrs, Male",
+          "co": "ffNSZ7u5Y5P",
+          "de": "HscG3R78Jzc",
+          "row": 3,
+          "column": 3
+        },
+        {
+          " _comment": "New Clients Served 20 to 59 Years, Female",
+          "co": "sfmUgn8yywu",
+          "de": "HscG3R78Jzc",
+          "row": 4,
+          "column": 2
+        },
+        {
+          " _comment": "New Clients Served 20 to 59 Years, Male",
+          "co": "iUcXHCikw4W",
+          "de": "HscG3R78Jzc",
+          "row": 4,
+          "column": 3
+        },
+        {
+          " _comment": "New Clients Served 60 to 69 Years, Female",
+          "co": "COAFy42YNLg",
+          "de": "HscG3R78Jzc",
+          "row": 5,
+          "column": 2
+        },
+        {
+          " _comment": "New Clients Served 60 to 69 Years, Male",
+          "co": "D7tJYC2XYrC",
+          "de": "HscG3R78Jzc",
+          "row": 5,
+          "column": 3
+        },
+        {
+          " _comment": "New Clients Served 70 and above, Female",
+          "co": "M0yrPwi8vEK",
+          "de": "HscG3R78Jzc",
+          "row":6,
+          "column": 2
+        },
+        {
+          " _comment": "New Clients Served 70 and above, Male",
+          "co": "DYUdGTQhgf9",
+          "de": "HscG3R78Jzc",
+          "row": 6,
+          "column": 3
+        },
+          {
+          " _comment": "Total Clients Served 0 to 9 Years, Female",
+          "co": "I1gylzOskBs",
+          "de": "XjuXeaVPUsr",
+          "row": 1,
+          "column": 4
+        },
+        {
+          " _comment": "Total Clients Served 0 to 9 Years, Male",
+          "co": "TTNFd2X49S6",
+          "de": "XjuXeaVPUsr",
+          "row": 1,
+          "column": 5
+        },
+        {
+          " _comment": "Total Clients Served 10 to 14 Yrs, Female",
+          "co": "ciTvZ1HjQTw",
+          "de": "XjuXeaVPUsr",
+          "row": 2,
+          "column": 4
+        },
+        {
+          " _comment": "Total Clients Served 10 to 14 Yrs, Male",
+          "co": "SDgsEKTs0IH",
+          "de": "XjuXeaVPUsr",
+          "row": 2,
+          "column": 5
+        },
+        {
+          " _comment": "Total Clients Served 15 to 19 Yrs, Female",
+          "co": "RnH2ZpATWSI",
+          "de": "XjuXeaVPUsr",
+          "row": 3,
+          "column": 4
+        },
+        {
+          " _comment": "Total Clients Served 15 to 19 Yrs, Male",
+          "co": "ffNSZ7u5Y5P",
+          "de": "XjuXeaVPUsr",
+          "row": 3,
+          "column": 5
+        },
+        {
+          " _comment": "Total Clients Served 20 to 59 Years, Female",
+          "co": "sfmUgn8yywu",
+          "de": "XjuXeaVPUsr",
+          "row": 4,
+          "column": 4
+        },
+        {
+          " _comment": "Total Clients Served 20 to 59 Years, Male",
+          "co": "iUcXHCikw4W",
+          "de": "XjuXeaVPUsr",
+          "row": 4,
+          "column": 5
+        },
+        {
+          " _comment": "Total Clients Served 60 to 69 Years, Female",
+          "co": "COAFy42YNLg",
+          "de": "XjuXeaVPUsr",
+          "row": 5,
+          "column": 4
+        },
+        {
+          " _comment": "Total Clients Served 60 to 69 Years, Male",
+          "co": "D7tJYC2XYrC",
+          "de": "XjuXeaVPUsr",
+          "row": 5,
+          "column": 5
+        },
+        {
+          " _comment": "Total Clients Served 70 and above, Female",
+          "co": "M0yrPwi8vEK",
+          "de": "XjuXeaVPUsr",
+          "row": 6,
+          "column": 4
+        },
+        {
+          " _comment": "Total Clients Served 70 and above, Male",
+          "co": "DYUdGTQhgf9",
+          "de": "XjuXeaVPUsr",
+          "row": 6,
+          "column": 5
+        }
+      ]
+    }
+	,
+    "Hospital Services - Emergency Services":{
+      "dataValues": [
+        {
+          " _comment": "Clients Received Emergency Services- Age Group  0-9 Years Female",
+          "co": "ye1QuAMRG5Z",
+          "de": "fuHbV1eiKs0",
+          "row": 1,
+          "column": 2
+        },
+        {
+          " _comment": "Clients Received Emergency Services- Age Group  0-9 Years Male",
+          "co": "PflKpozpO7b",
+          "de": "fuHbV1eiKs0",
+          "row": 1,
+          "column": 3
+        },
+        {
+          " _comment": "Clients Received Emergency Services- Age Group  10-14 Years Female",
+          "co": "ye1QuAMRG5Z",
+          "de": "qQ8UCWW6YUs",
+          "row": 2,
+          "column": 2
+        },
+        {
+          " _comment": "Clients Received Emergency Services- Age Group  10-14 Years Male",
+          "co": "PflKpozpO7b",
+          "de": "qQ8UCWW6YUs",
+          "row": 2,
+          "column": 3
+        },
+        {
+          " _comment": "Clients Received Emergency Services- Age Group  15-19 Years Female",
+          "co": "ye1QuAMRG5Z",
+          "de": "SbdW0pjvph3",
+          "row": 3,
+          "column": 2
+        },
+        {
+          " _comment": "Clients Received Emergency Services- Age Group  15-19 Years Male",
+          "co": "PflKpozpO7b",
+          "de": "SbdW0pjvph3",
+          "row": 3,
+          "column": 3
+        },
+        {
+          " _comment": "Clients Received Emergency Services- Age Group  20-59 Years Female",
+          "co": "ye1QuAMRG5Z",
+          "de": "CLYbMAU5lhD",
+          "row": 4,
+          "column": 2
+        },
+        {
+          " _comment": "Clients Received Emergency Services- Age Group  20-59 Years Male",
+          "co": "PflKpozpO7b",
+          "de": "CLYbMAU5lhD",
+          "row": 4,
+          "column": 3
+        },
+        {
+          " _comment": "Clients Received Emergency Services- Age Group 60 to 69 Years Female",
+          "co": "ye1QuAMRG5Z",
+          "de": "GaDfMW8NKGd",
+          "row": 5,
+          "column": 2
+        },
+        {
+          " _comment": "Clients Received Emergency Services- Age Group 60 to 69 Years Male",
+          "co": "PflKpozpO7b",
+          "de": "GaDfMW8NKGd",
+          "row": 5,
+          "column": 3
+        },
+        {
+          " _comment": "Clients Received Emergency Services- Age Group  70 Years Female",
+          "co": "ye1QuAMRG5Z",
+          "de": "jXzZ2AFEqgP",
+          "row": 6,
+          "column": 2
+        },
+        {
+          " _comment": "Clients Received Emergency Services- Age Group 70 Years Male",
+          "co": "PflKpozpO7b",
+          "de": "jXzZ2AFEqgP",
+          "row": 6,
+          "column": 3
+        }
+      ]
+    },
+	
+	"Hospital Services - Total Patients Admitted and Total Beds":{
+      "dataValues": [
+        {
+          " _comment": "Total Number of Patients admitted in Hospital",
+          "co": "kdsirVNKdhm",
+          "de": "e7awSzM03vh",
+          "row": 1,
+          "column": 2
+        },
+        {
+          " _comment": "Number of Sanctioned Beds in Hospital",
+          "co": "kdsirVNKdhm",
+          "de": "hE0Kl0AKRKj",
+          "row": 3,
+          "column": 2
+        }
+      ]
+    },
+    "Hospital Services - Total Inpatient Days":{
+      "dataValues": [{
+          " _comment": "Total In-Patient Service Days",
+          "co": "kdsirVNKdhm",
+          "de": "mVPlNZIq82F",
+          "row": 1,
+          "column": 1
+          }
+         ]
+      },
+
+	"Hospital Services - Referred In patient":{
+      "dataValues": [
+        {
+          " _comment": "Referred in Female",
+          "co": "ye1QuAMRG5Z",  
+          "de": "W7SEWzmObUP",
+          "row": 1,
+          "column": 2
+        },
+        {
+          " _comment": "Referred in Male",
+          "co": "PflKpozpO7b",
+          "de": "W7SEWzmObUP",
+          "row": 2,
+          "column": 2
+        }
+      ]
+    },
+	
+	"Hospital Services - Referred out patient(OPD)":{
+      "dataValues": [
+        {
+          " _comment": "Female",
+          "co": "ye1QuAMRG5Z",
+          "de": "O7vdFXujKQX",
+          "row": 1,
+          "column": 3
+        },
+        
+		  {
+          " _comment": "Male",
+          "co": "PflKpozpO7b",  
+          "de": "O7vdFXujKQX",
+          "row": 2,
+          "column": 3
+        }
+		
+      ]
+    },
+	"Hospital Services - Referred out patient(IPD)":{
+      "dataValues": [
+        
+        {
+          " _comment": "Female",
+          "co": "ye1QuAMRG5Z", 
+          "de": "cUMLBeIlaIp",
+          "row": 1,
+          "column": 2
+        },
+        {
+          " _comment": "Male",
+          "co": "PflKpozpO7b", 
+          "de": "cUMLBeIlaIp",
+          "row": 2,
+          "column": 2
+        }
+		
+      ]
+    },
+	
+	"Hospital Services - Referred out patient(ER)":{
+      "dataValues": [
+        {
+          " _comment": "Female",
+          "co": "ye1QuAMRG5Z",
+          "de": "R8gvkj9ssaI",
+          "row": 1,
+          "column": 2
+        },
+        {
+          " _comment": "Male",
+          "co": "PflKpozpO7b", 
+          "de": "R8gvkj9ssaI",
+          "row": 2,
+          "column": 2
+        }
+      ]
+    },
+    "Hospital Services - Free Service Received by Impoverished Citizen":{
+      "dataValues": [
+        {
+          " _comment": "Ultra Poor Patients Received Free Services for Heart Ailments Female",
+          "co": "ye1QuAMRG5Z", 
+          "de": "hcc1X0ZUcwu",
+          "row": 1,
+          "column": 2
+        },
+        {
+          " _comment": "Ultra Poor Patients Received Free Services for Heart Ailments male",
+          "co": "PflKpozpO7b",
+          "de": "hcc1X0ZUcwu",
+          "row": 1,
+          "column": 1
+        },
+        {
+          " _comment": "Ultra Poor Patients Received Free Services for Kidney Ailments FeMale",
+          "co": "ye1QuAMRG5Z", 
+          "de": "vAedweDY9Ov",
+          "row": 1,
+          "column": 4
+        },
+        {
+          " _comment": "Ultra Poor Patients Received Free Services for Kidney Ailments male",
+          "co": "PflKpozpO7b",
+          "de": "vAedweDY9Ov",
+          "row": 1,
+          "column": 3
+        },
+        {
+          " _comment": "Ultra Poor PatientsReceived Free Services  for Cancer Treatment Female",
+          "co": "ye1QuAMRG5Z",
+          "de": "sMadF784Ipm",
+          "row": 1,
+          "column": 6
+        },
+        {
+          " _comment": "Ultra Poor PatientsReceived Free Services  for Cancer Treatment Male",
+          "co": "PflKpozpO7b", 
+          "de": "sMadF784Ipm",
+          "row": 1,
+          "column": 5
+        },
+        {
+          " _comment": "Ultra Poor Patients Received Free Services for Head Injury Female",
+          "co": "ye1QuAMRG5Z",
+          "de": "mepsRa1P7TF",
+          "row": 1,
+          "column": 8
+        },
+        {
+          " _comment": "Ultra Poor Patients Received Free Services for Head Injury Male",
+          "co": "PflKpozpO7b", 
+          "de": "mepsRa1P7TF",
+          "row": 1,
+          "column": 7
+        },
+        {
+          " _comment": "Ultra Poor Patients Received Free Services for Spinal and Head Injury Female",
+          "co": "ye1QuAMRG5Z",
+          "de": "NwwONXCMqqS",
+          "row": 1,
+          "column": 10
+        },
+        {
+          " _comment": "Ultra Poor Patients Received Free Services for Spinal and Head Injury Male",
+          "co": "PflKpozpO7b", 
+          "de": "NwwONXCMqqS",
+          "row": 1,
+          "column": 9
+        },
+        {
+          " _comment": "Ultra Poor Patients Received Free Services for Alzheimer Female",
+          "co": "ye1QuAMRG5Z",
+          "de": "wrUj1hRMeRR",
+          "row": 1,
+          "column": 12
+        },
+        {
+          " _comment": "Ultra Poor Patients Received Free Services for Alzheimer Male",
+          "co": "PflKpozpO7b", 
+          "de": "wrUj1hRMeRR",
+          "row": 1,
+          "column": 11
+        },
+        {
+          " _comment": "Ultra Poor Patients Received Free Services for Parkinson Female",
+          "co": "ye1QuAMRG5Z",
+          "de": "lZRVWKdFWUz",
+          "row": 1,
+          "column": 14
+        },
+        {
+          " _comment": "Ultra Poor Patients Received Free Services for Parkinson Male",
+          "co": "PflKpozpO7b", 
+          "de": "lZRVWKdFWUz",
+          "row": 1,
+          "column": 13
+        },
+        {
+          " _comment": "Ultra Poor Patients Received Free Services for Sickle Cell Anaemia Female",
+          "co": "ye1QuAMRG5Z",
+          "de": "P75PjLQQwYx",
+          "row": 1,
+          "column": 16
+        },
+        {
+          " _comment": "Ultra Poor Patients Received Free Services for Sickle Cell Anaemia male",
+          "co": "PflKpozpO7b",
+          "de": "P75PjLQQwYx",
+          "row": 1,
+          "column": 15
+        }
+      ]
+    }
+  }
+}

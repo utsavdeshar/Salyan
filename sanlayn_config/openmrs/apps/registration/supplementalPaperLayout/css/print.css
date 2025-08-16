@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+}
+.row {
+    float: clear;
+    margin-top: -3px;
+}
+.left {
+    width: 50%;
+    float: left;
+}
+.right {
+    width: 50%;
+    float: left;
+}
+.label {
+    font-weight: bold;
+}
+.fontForSticker {
+    font-size: 14px;
+    /* margin-left: 10px;
+    margin-top: 5px; */
+}
+.dept {
+    font-weight: bold;
+    font-size: 16px;
+}
+.qrcodes {
+  position:absolute;
+  bottom:90.5%;
+  right:300px;
+  text-decoration: none;
+}
+.uname{
+  position:absolute;
+  bottom:87%;
+  right:280px;
+  text-decoration: none;
+
+}
+.right12 {
+  position:absolute;
+  bottom:83%;
+  right:250px;
+  text-decoration: none;
+  
+}
+.right123 {
+  bottom:83%;
+  right:100px;
+  text-decoration: none;
+  
+}
+qr.set({
+    background: 'green',
+    backgroundAlpha: 0.8,
+    foreground: 'blue',
+    foregroundAlpha: 0.8,
+    padding: 25,
+    size: 500
+});
+.qr-btn {
+    background-color:#8c52ff;
+    padding:8px;
+    color:white;
+    cursor:pointer;
+}
+

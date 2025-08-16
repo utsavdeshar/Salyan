@@ -1,0 +1,81 @@
+{
+	"ou": "mkjer41pShd",
+	"ds": "jZ0ClbXLtgz",
+	"reports": {
+		"19_Laboratory_Services_Dataset- Paracitology": {
+			"dataValues": [
+				{
+					"_comment": "Parasitology-stool",
+					"co": "kdsirVNKdhm",
+					"de": "b3zYEkHFmat",
+					"row": 1,
+					"column": 3
+				},
+				{
+					"_comment": "Parasitology-occult-blood",
+					"co": "kdsirVNKdhm",
+					"de": "z9i5nhshIPk",
+					"row": 2,
+					"column": 3
+				},
+				{
+					"_comment": "Parasitology-Reducing sugar",
+					"co": "kdsirVNKdhm",
+					"de": "aydXkBquvXP",
+					"row": 3,
+					"column": 3
+				},
+				{
+					"_comment": "Parasitology-urine-RE",
+					"co": "kdsirVNKdhm",
+					"de": "PX30ls6pIRm",
+					"row": 4,
+					"column": 3
+				},
+				{
+					"_comment": "Parasitology-bile-salt",
+					"co": "kdsirVNKdhm",
+					"de": "KC4gQ1lbXAg",
+					"row": 5,
+					"column": 3
+				},
+				{
+					"_comment": "Parasitology-bile-pigment",
+					"co": "kdsirVNKdhm",
+					"de": "uVcWLuam362",
+					"row": 6,
+					"column": 3
+				},
+
+				{
+					"_comment": "Parasitology-Urobi-linogen",
+					"co": "kdsirVNKdhm",
+					"de": "XEe49IIPcoD",
+					"row": 7,
+					"column": 3
+				},
+				{
+					"_comment": "Parasitology-Ace-tone",
+					"co": "kdsirVNKdhm",
+					"de": "W1DQovLs4sh",
+					"row": 8,
+					"column": 3
+				},
+				{
+					"_comment": "Parasitology-Chyle",
+					"co": "kdsirVNKdhm",
+					"de": "rzfTpDSCtgk",
+					"row": 9,
+					"column": 3
+				},
+				{
+					"_comment": "Parasitology-Semen-analysis",
+					"co": "kdsirVNKdhm",
+					"de": "uWALxnktvW8",
+					"row": 10,
+					"column": 3
+				}
+			]
+		}
+	}
+}

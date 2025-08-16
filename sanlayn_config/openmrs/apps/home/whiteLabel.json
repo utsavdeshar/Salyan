@@ -1,0 +1,15 @@
+{
+  "homePage": {
+    "header_text": "<b>Welcome to Salyan District Hospital",
+    "logo": "/bahmni/images/AP_logo.png",
+    "title_text": " "
+  },
+  "loginPage": {
+    "logo": "/bahmni/images/AP_logo.png",
+    "showHeaderText": true,
+    "showTitleText": false
+  },
+  "helpLink": {
+    "url": "http://www.nepalehr.org"
+  }
+}

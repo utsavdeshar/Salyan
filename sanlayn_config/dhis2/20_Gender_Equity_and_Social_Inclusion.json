@@ -1,0 +1,683 @@
+{
+  "ou": "mkjer41pShd",
+  "ds":"n4q37lRP1zz",
+  "reports": {
+    "Gender Equity and Social Inclusion": {
+      "dataValues": [   
+        {
+          "_comment": "Fully Immunized Children Female-dalit",
+                "co": "Dj0rmsKZiLJ",  
+                "de": "gt1TS2c2AXS",
+                "row": 1,
+                "column": 2
+        }, 	
+        {
+        "_comment": "Fully Immunized Children-Female-janjati",
+              "co": "XsYqOrbvA7e",  
+              "de": "gt1TS2c2AXS",
+              "row": 2,
+              "column": 2
+            },
+        {
+        "_comment": "Fully Immunized Children-Female-madhesi",
+              "co": "m7XVRi1qT1J",  
+              "de": "gt1TS2c2AXS",
+              "row": 3,
+              "column": 2
+            },
+        {
+        "_comment": "Fully Immunized Children-Female-muslim",
+              "co": "EJv9IPWeCTb",  
+              "de": "gt1TS2c2AXS",
+              "row": 4,
+              "column": 2
+            },
+        {
+        "_comment": "Fully Immunized Children-Female-brahmin/chhetri",
+              "co": "fYKzBP3njcE",  
+              "de": "gt1TS2c2AXS",
+              "row": 5,
+              "column": 2
+            },
+        {
+        "_comment": "Fully Immunized Children-Female-others",
+              "co": "GyhEtL13JfA",  
+              "de": "gt1TS2c2AXS",
+              "row": 6,
+              "column": 2
+        },
+        {
+          "_comment": "Fully Immunized Children Male-dalit",
+          "co": "xS4ElXqiXoA",  
+          "de": "gt1TS2c2AXS",
+          "row": 1,
+          "column": 3
+        },
+        {
+          "_comment": "Fully Immunized Children Male-janjati",
+                "co": "FxNqmZfHgEO",  
+                "de": "gt1TS2c2AXS",
+                "row": 2,
+                "column": 3
+              },
+          {
+          "_comment": "Fully Immunized Children Male-madhesi",
+                "co": "vAdaNYgYRX3",  
+                "de": "gt1TS2c2AXS",
+                "row": 3,
+                "column": 3
+              },
+          {
+          "_comment": "Fully Immunized Children Male-muslim",
+                "co": "gsOm9pEBion",  
+                "de": "gt1TS2c2AXS",
+                "row": 4,
+                "column": 3
+              },
+          {
+          "_comment": "Fully Immunized Children Male-brahmin/chhetri",
+                "co": "zJQ0xbEoQJI",  
+                "de": "gt1TS2c2AXS",
+                "row": 5,
+                "column": 3
+              },
+          {
+          "_comment": "Fully Immunized Children Male-others",
+                "co": "fKYuaCH0OuA",  
+                "de": "gt1TS2c2AXS",
+                "row": 6,
+                "column": 3
+              },
+		{
+		"_comment": "GESI-IMCI Service received (<2 month childern Female) Dalit",
+          "co": "Dj0rmsKZiLJ",  
+          "de": "TXQYZMRBrAW",
+          "row": 1,
+          "column": 4
+        },
+		{
+		"_comment": "GESI-IMCI Service received (<2 month childern Female) janjati",
+          "co": "XsYqOrbvA7e",  
+          "de": "TXQYZMRBrAW",
+          "row": 2,
+          "column": 4
+        },
+		{
+		"_comment": "GESI-IMCI Service received (<2 month childern Female) madhesi",
+          "co": "m7XVRi1qT1J",  
+          "de": "TXQYZMRBrAW",
+          "row": 3,
+          "column": 4
+        },
+		{
+		"_comment": "GESI-IMCI Service received (<2 month childern Female) muslim",
+          "co": "EJv9IPWeCTb",  
+          "de": "TXQYZMRBrAW",
+          "row": 4,
+          "column": 4
+        },
+		{
+		"_comment": "GESI-IMCI Service received (<2 month childern Female) brahmin/chhetri",
+          "co": "fYKzBP3njcE",  
+          "de": "TXQYZMRBrAW",
+          "row": 5,
+          "column": 4
+        },
+		{
+		"_comment": "GESI-IMCI Service received (<2 month childern Female) others",
+          "co": "GyhEtL13JfA",  
+          "de": "TXQYZMRBrAW",
+          "row": 6,
+          "column": 4
+        },
+		{
+		"_comment": "GESI-IMCI Service received (<2 month childern male) dalit",
+          "co": "xS4ElXqiXoA",  
+          "de": "TXQYZMRBrAW",
+          "row": 1,
+          "column": 5
+        },
+		{
+		"_comment": "GESI-IMCI Service received (<2 month childern male) janjati",
+          "co": "FxNqmZfHgEO",  
+          "de": "TXQYZMRBrAW",
+          "row": 2,
+          "column": 5
+        },
+		{
+		"_comment": "GESI-IMCI Service received (<2 month childern male) madhesi",
+          "co": "vAdaNYgYRX3",  
+          "de": "TXQYZMRBrAW",
+          "row": 3,
+          "column": 5
+        },
+		{
+		"_comment": "GESI-IMCI Service received (<2 month childern male) muslim",
+          "co": "gsOm9pEBion",  
+          "de": "TXQYZMRBrAW",
+          "row": 4,
+          "column": 5
+        },
+		{
+		"_comment": "GESI-IMCI Service received (<2 month childern male) brahmin/chhetri",
+          "co": "zJQ0xbEoQJI",  
+          "de": "TXQYZMRBrAW",
+          "row": 5,
+          "column": 5
+        },
+		{
+		"_comment": "GESI-IMCI Service received (<2 month childern male) others",
+          "co": "fKYuaCH0OuA",  
+          "de": "TXQYZMRBrAW",
+          "row": 6,
+          "column": 5
+    },
+		{
+      "_comment": "GESI-IMCI Service received (2-59 month childern Female) Dalit",
+            "co": "Dj0rmsKZiLJ",  
+            "de": "P0kO0OYHKrf",
+            "row": 1,
+            "column": 6
+    },
+    {
+      "_comment": "GESI-IMCI Service received (2-59 month childern Female) janjati",
+            "co": "XsYqOrbvA7e",  
+            "de": "P0kO0OYHKrf",
+            "row": 2,
+            "column": 6
+          },
+      {
+      "_comment": "GESI-IMCI Service received (2-59 month childern Female) madhesi",
+            "co": "m7XVRi1qT1J",  
+            "de": "P0kO0OYHKrf",
+            "row": 3,
+            "column": 6
+          },
+      {
+      "_comment": "GESI-IMCI Service received (2-59 month childern Female) muslim",
+            "co": "EJv9IPWeCTb",  
+            "de": "P0kO0OYHKrf",
+            "row": 4,
+            "column": 6
+          },
+      {
+      "_comment": "GESI-IMCI Service received (2-59 month childern Female) brahmin/chhetri",
+            "co": "fYKzBP3njcE",  
+            "de": "P0kO0OYHKrf",
+            "row": 5,
+            "column": 6
+          },
+      {
+      "_comment": "GESI-IMCI Service received (2-59 month childern Female) others",
+            "co": "GyhEtL13JfA",  
+            "de": "P0kO0OYHKrf",
+            "row": 6,
+            "column": 6
+          },
+      {
+      "_comment": "GESI-IMCI Service received (2-59 month childern Male) dalit",
+            "co": "xS4ElXqiXoA",  
+            "de": "P0kO0OYHKrf",
+            "row": 1,
+            "column": 7
+          },
+      {
+      "_comment": "GESI-IMCI Service received (2-59 month childern Male) janjati",
+            "co": "FxNqmZfHgEO",  
+            "de": "P0kO0OYHKrf",
+            "row": 2,
+            "column": 7
+          },
+      {
+      "_comment": "GESI-IMCI Service received (2-59 month childern Male) madhesi",
+            "co": "vAdaNYgYRX3",  
+            "de": "P0kO0OYHKrf",
+            "row": 3,
+            "column": 7
+          },
+      {
+      "_comment": "GESI-IMCI Service received (2-59 month childern Male) muslim",
+            "co": "gsOm9pEBion",  
+            "de": "P0kO0OYHKrf",
+            "row": 4,
+            "column": 7
+          },
+      {
+      "_comment": "GESI-IMCI Service received (2-59 month childern Male) brahmin/chhetri",
+            "co": "zJQ0xbEoQJI",  
+            "de": "P0kO0OYHKrf",
+            "row": 5,
+            "column": 7
+          },
+      {
+      "_comment": "GESI-IMCI Service received (2-59 month childern Male) others",
+            "co": "fKYuaCH0OuA",  
+            "de": "P0kO0OYHKrf",
+            "row": 6,
+            "column": 7
+      },
+		{
+		"_comment": "Underweight Children(<2years)-Female-dalit",
+          "co": "Dj0rmsKZiLJ",  
+          "de": "CwVdkWrutXx",
+          "row": 1,
+          "column": 8
+        },
+		{
+		"_comment": "Underweight Children(<2years)-Female-janjati",
+          "co": "XsYqOrbvA7e",  
+          "de": "CwVdkWrutXx",
+          "row": 2,
+          "column": 8
+        },
+		{
+		"_comment": "Underweight Children(<2years)-Female-madhesi",
+          "co": "m7XVRi1qT1J",  
+          "de": "CwVdkWrutXx",
+          "row": 3,
+          "column": 8
+        },
+		{
+		"_comment": "Underweight Children(<2years)-Female-muslim",
+          "co": "EJv9IPWeCTb",  
+          "de": "CwVdkWrutXx",
+          "row": 4,
+          "column": 8
+        },
+		{
+		"_comment": "Underweight Children(<2years)-Female-brahmin/chhetri",
+          "co": "fYKzBP3njcE",  
+          "de": "CwVdkWrutXx",
+          "row": 5,
+          "column": 8
+        },
+		{
+		"_comment": "Underweight Children(<2years)-Female-others",
+          "co": "GyhEtL13JfA",  
+          "de": "CwVdkWrutXx",
+          "row": 6,
+          "column": 8
+        },
+		{
+		"_comment": "Underweight Children(<2years)-Male-dalit",
+          "co": "xS4ElXqiXoA",  
+          "de": "CwVdkWrutXx",
+          "row": 1,
+          "column": 9
+        },
+		{
+		"_comment": "Underweight Children(<2years)-Male-janjati",
+          "co": "FxNqmZfHgEO",  
+          "de": "CwVdkWrutXx",
+          "row": 2,
+          "column": 9
+        },
+		{
+		"_comment": "Underweight Children(<2years)-Male-madhesi",
+          "co": "vAdaNYgYRX3",  
+          "de": "CwVdkWrutXx",
+          "row": 3,
+          "column": 9
+        },
+		{
+		"_comment": "Underweight Children(<2years)-Male-muslim",
+          "co": "gsOm9pEBion",  
+          "de": "CwVdkWrutXx",
+          "row": 4,
+          "column": 17
+        },
+		{
+		"_comment": "Underweight Children(<2years)-Male-brahmin/chhetri",
+          "co": "zJQ0xbEoQJI",  
+          "de": "CwVdkWrutXx",
+          "row": 5,
+          "column": 9
+        },
+		{
+		"_comment": "Underweight Children(<2years)-Male-others",
+          "co": "fKYuaCH0OuA",  
+          "de": "CwVdkWrutXx",
+          "row": 6,
+          "column": 9
+        },
+		{
+		"_comment": "Institutional Delivery-dalit",
+          "co": "L9U3tI7WNAn",  
+          "de": "K007woueuZ8",
+          "row": 1,
+          "column": 10
+        },
+		{
+		"_comment": "Institutional Delivery-janjati",
+          "co": "zLIKmL6CLOz",  
+          "de": "K007woueuZ8",
+          "row": 2,
+          "column": 10
+        },
+		{
+		"_comment": "Institutional Delivery-madhesi",
+          "co": "axo8zRiLkg8",  
+          "de": "K007woueuZ8",
+          "row": 3,
+          "column": 10
+        },
+		{
+		"_comment": "Institutional Delivery-muslim",
+          "co": "aiXiO0KW5kz",  
+          "de": "K007woueuZ8",
+          "row": 4,
+          "column": 10
+        },
+		{
+		"_comment": "Institutional Delivery-brahmin/chhetri",
+          "co": "IVNBUxSkGoO",  
+          "de": "K007woueuZ8",
+          "row": 5,
+          "column": 10
+        },
+		{
+		"_comment": "Institutional Delivery-others",
+          "co": "H3AfizhoVk2",  
+          "de": "K007woueuZ8",
+          "row": 6,
+          "column": 10
+        },
+		{
+		"_comment": "Abortion Cases-dalit",
+          "co": "L9U3tI7WNAn",  
+          "de": "hBHUG15MsYM",
+          "row": 1,
+          "column": 11
+        },
+		{
+		"_comment": "Abortion Cases-janjati",
+          "co": "zLIKmL6CLOz",  
+          "de": "hBHUG15MsYM",
+          "row": 2,
+          "column": 11
+        },
+		{
+		"_comment": "Abortion Cases-madhesi",
+          "co": "axo8zRiLkg8",  
+          "de": "hBHUG15MsYM",
+          "row": 3,
+          "column": 11
+        },
+		{
+		"_comment": "Abortion Cases-muslim",
+          "co": "aiXiO0KW5kz",  
+          "de": "hBHUG15MsYM",
+          "row": 4,
+          "column": 11
+        },
+		{
+		"_comment": "Abortion Cases-brahmin/chhetri",
+          "co": "IVNBUxSkGoO",  
+          "de": "hBHUG15MsYM",
+          "row": 5,
+          "column": 11
+        },
+		{
+		"_comment": "Abortion Cases-others",
+          "co": "H3AfizhoVk2",  
+          "de": "hBHUG15MsYM",
+          "row": 6,
+          "column": 11
+    },
+		{
+      "_comment": "Leprosy-Female-dalit",
+            "co": "Dj0rmsKZiLJ",  
+            "de": "zvWNCbZkl2c",
+            "row": 1,
+            "column": 14
+          },
+      {
+      "_comment": "Leprosy-Female-janjati",
+            "co": "XsYqOrbvA7e",  
+            "de": "zvWNCbZkl2c",
+            "row": 2,
+            "column": 14
+          },
+      {
+      "_comment": "Leprosy-Female-madhesi",
+            "co": "m7XVRi1qT1J",  
+            "de": "zvWNCbZkl2c",
+            "row": 3,
+            "column": 14
+          },
+      {
+      "_comment": "Leprosy-Female-muslim",
+            "co": "EJv9IPWeCTb",  
+            "de": "zvWNCbZkl2c",
+            "row": 4,
+            "column": 14
+          },
+      {
+      "_comment": "Leprosy-Female-brahmin/chhetri",
+            "co": "fYKzBP3njcE",  
+            "de": "zvWNCbZkl2c",
+            "row": 5,
+            "column": 14
+          },
+      {
+      "_comment": "Leprosy-Female-others",
+            "co": "GyhEtL13JfA",  
+            "de": "zvWNCbZkl2c",
+            "row": 6,
+            "column": 14
+          },
+      {
+      "_comment": "Leprosy-Male-dalit",
+            "co": "xS4ElXqiXoA",  
+            "de": "zvWNCbZkl2c",
+            "row": 1,
+            "column": 15
+          },
+      {
+      "_comment": "Leprosy-Male-janjati",
+            "co": "FxNqmZfHgEO",  
+            "de": "zvWNCbZkl2c",
+            "row": 2,
+            "column": 15
+          },
+      {
+      "_comment": "Leprosy-Male-madhesi",
+            "co": "vAdaNYgYRX3",  
+            "de": "zvWNCbZkl2c",
+            "row": 3,
+            "column": 15
+          },
+      {
+      "_comment": "Leprosy-Male-muslim",
+            "co": "gsOm9pEBion",  
+            "de": "zvWNCbZkl2c",
+            "row": 4,
+            "column": 15
+          },
+      {
+      "_comment": "Leprosy-Male-brahmin/chhetri",
+            "co": "zJQ0xbEoQJI",  
+            "de": "zvWNCbZkl2c",
+            "row": 5,
+            "column": 15
+          },
+      {
+      "_comment": "Leprosy-Male-others",
+            "co": "fKYuaCH0OuA",  
+            "de": "zvWNCbZkl2c",
+            "row": 6,
+            "column": 15
+          },		
+		{
+		"_comment": "TB-Female-dalit",
+          "co": "Dj0rmsKZiLJ",  
+          "de": "FoD4v6iwBwo",
+          "row": 1,
+          "column": 14
+        },
+		{
+		"_comment": "TB-Female-janjati",
+          "co": "XsYqOrbvA7e",  
+          "de": "FoD4v6iwBwo",
+          "row": 2,
+          "column": 14
+        },
+		{
+		"_comment": "TB-Female-madhesi",
+          "co": "m7XVRi1qT1J",  
+          "de": "FoD4v6iwBwo",
+          "row": 3,
+          "column": 14
+        },
+		{
+		"_comment": "TB-Female-muslim",
+          "co": "EJv9IPWeCTb",  
+          "de": "FoD4v6iwBwo",
+          "row": 4,
+          "column": 14
+        },
+		{
+		"_comment": "TB-Female-brahmin/chhetri",
+          "co": "fYKzBP3njcE",  
+          "de": "FoD4v6iwBwo",
+          "row": 5,
+          "column": 14
+        },
+		{
+		"_comment": "TB-Female-others",
+          "co": "GyhEtL13JfA",  
+          "de": "FoD4v6iwBwo",
+          "row": 6,
+          "column": 14
+        },
+		{
+		"_comment": "TB-Male-dalit",
+          "co": "xS4ElXqiXoA",  
+          "de": "FoD4v6iwBwo",
+          "row": 1,
+          "column": 15
+        },
+		{
+		"_comment": "TB-Male-janjati",
+          "co": "FxNqmZfHgEO",  
+          "de": "FoD4v6iwBwo",
+          "row": 2,
+          "column": 15
+        },
+		{
+		"_comment": "TB-Male-madhesi",
+          "co": "vAdaNYgYRX3",  
+          "de": "FoD4v6iwBwo",
+          "row": 3,
+          "column": 15
+        },
+		{
+		"_comment": "TB-Male-muslim",
+          "co": "gsOm9pEBion",  
+          "de": "FoD4v6iwBwo",
+          "row": 4,
+          "column": 15
+        },
+		{
+		"_comment": "TB-Male-brahmin/chhetri",
+          "co": "zJQ0xbEoQJI",  
+          "de": "FoD4v6iwBwo",
+          "row": 5,
+          "column": 15
+        },
+		{
+		"_comment": "TB-Male-others",
+          "co": "fKYuaCH0OuA",  
+          "de": "FoD4v6iwBwo",
+          "row": 6,
+          "column": 15
+        },
+        {
+          "_comment": "Out patient cases-Female-dalit",
+                "co": "Dj0rmsKZiLJ",  
+                "de": "mvQ46z3S0rq",
+                "row": 1,
+                "column": 16
+              },
+          {
+          "_comment": "Out patient cases-Female-janjati",
+                "co": "XsYqOrbvA7e",  
+                "de": "mvQ46z3S0rq",
+                "row": 2,
+                "column": 16
+              },
+          {
+          "_comment": "Out patient cases-Female-madhesi",
+                "co": "m7XVRi1qT1J",  
+                "de": "mvQ46z3S0rq",
+                "row": 3,
+                "column": 16
+              },
+          {
+          "_comment": "Out patient cases-Female-muslim",
+                "co": "EJv9IPWeCTb",  
+                "de": "mvQ46z3S0rq",
+                "row": 4,
+                "column": 16
+              },
+          {
+          "_comment": "Out patient cases-Female-brahmin/chhetri",
+                "co": "fYKzBP3njcE",  
+                "de": "mvQ46z3S0rq",
+                "row": 5,
+                "column": 16
+              },
+          {
+          "_comment": "Out patient cases-Female-others",
+                "co": "GyhEtL13JfA",  
+                "de": "mvQ46z3S0rq",
+                "row": 6,
+                "column": 16
+              },
+          {
+          "_comment": "Out patient cases-Male-dalit",
+                "co": "xS4ElXqiXoA",  
+                "de": "mvQ46z3S0rq",
+                "row": 1,
+                "column": 17
+              },
+          {
+          "_comment": "Out patient cases-Male-janjati",
+                "co": "FxNqmZfHgEO",  
+                "de": "mvQ46z3S0rq",
+                "row": 2,
+                "column": 17
+              },
+          {
+          "_comment": "Out patient cases-Male-madhesi",
+                "co": "vAdaNYgYRX3",  
+                "de": "mvQ46z3S0rq",
+                "row": 3,
+                "column": 17
+              },
+          {
+          "_comment": "Out patient cases-Male-muslim",
+                "co": "gsOm9pEBion",  
+                "de": "mvQ46z3S0rq",
+                "row": 4,
+                "column": 17
+              },
+          {
+          "_comment": "Out patient cases-Male-brahmin/chhetri",
+                "co": "zJQ0xbEoQJI",  
+                "de": "mvQ46z3S0rq",
+                "row": 5,
+                "column": 17
+              },
+          {
+          "_comment": "Out patient cases-Male-others",
+                "co": "fKYuaCH0OuA",  
+                "de": "mvQ46z3S0rq",
+                "row": 6,
+                "column": 17
+              }
+		
+			]
+		}
+}
+}

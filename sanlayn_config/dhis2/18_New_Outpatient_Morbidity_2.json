@@ -1,0 +1,904 @@
+{
+	"ou": "mkjer41pShd",
+    "ds": "ox6D4Rx3YG7",
+  "reports": {
+    "18-G_Nutritional_Metabolic_Disorder":{
+        "dataValues":[
+            {
+                " _comment": "Outpatient Morbidity-Nutritional & Metabolic Disorder-Avitaminoses & Other Nutrient Deficiency Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "bp53MgxccqQ",
+                "row": 4,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Nutritional & Metabolic Disorder-Avitaminoses & Other Nutrient Deficiency Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "bp53MgxccqQ",
+                "row": 4,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Nutritional & Metabolic Disorder-Obesity Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "EKavdicUQaW",
+                "row": 5,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Nutritional & Metabolic Disorder-Obesity Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "EKavdicUQaW",
+                "row": 5,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Nutritional & Metabolic Disorder-Anaemia/Polyneuropathy Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "doJ6CNvMbmw",
+                "row": 6,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Nutritional & Metabolic Disorder-Anaemia/Polyneuropathy Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "doJ6CNvMbmw",
+                "row": 6,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Nutritional & Metabolic Disorder-Polyneuritis Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "nDWUFmrIPCA",
+                "row": 7,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Nutritional & Metabolic Disorder-Polyneuritis Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "nDWUFmrIPCA",
+                "row": 7,
+                "column": 3
+            }
+        ]
+    },
+    "18-H_Skin_Diseases":{
+        "dataValues":[
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Acne Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "VAqYKbRvrHe",
+                "row": 1,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Acne Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "VAqYKbRvrHe",
+                "row": 1,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Warts Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "aoQoJU7AQ9O",
+                "row": 2,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Warts Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "aoQoJU7AQ9O",
+                "row": 2,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Chloasma/Melasma Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "ZfcANR0riP1",
+                "row": 3,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Chloasma/Melasma Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "ZfcANR0riP1",
+                "row": 3,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Urticaria Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "FN5uLuYjGmq",
+                "row": 4,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Urticaria Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "FN5uLuYjGmq",
+                "row": 4,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Dermatitis/Eczema Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "tS2cUtWNXpI",
+                "row": 5,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Dermatitis/Eczema Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "tS2cUtWNXpI",
+                "row": 5,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Alopecia Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "DuhReYAWpjc",
+                "row": 6,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Alopecia Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "DuhReYAWpjc",
+                "row": 6,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Skin-Cellulitis Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "V6jeKfAPnko",
+                "row": 7,
+                "column": 2
+            },
+            {
+                " _comment": "OPD Morbidity-Skin-Cellulitis Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "V6jeKfAPnko",
+                "row": 7,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Skin-Pediculosis (Lice) Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "NOYxO4z4lEY",
+                "row": 8,
+                "column": 2
+            },
+            {
+                " _comment": "OPD Morbidity-Skin-Pediculosis (Lice) Male",
+                "co": "PflKpozpO7b",
+                "de": "NOYxO4z4lEY",
+                "row": 8,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Vitiligo Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "Xzw4N8KPWQS",
+                "row": 9,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Vitiligo Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "Xzw4N8KPWQS",
+                "row": 9,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Albinism Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "Xfr7s6N5ILP",
+                "row": 10,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Albinism Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "Xfr7s6N5ILP",
+                "row": 10,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Herpes Simplex Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "FAaK12zZX3M",
+                "row": 11,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Herpes Simplex Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "FAaK12zZX3M",
+                "row": 11,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Herpes Zoster Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "ZfULTbeDgRF",
+                "row": 12,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Herpes Zoster Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "ZfULTbeDgRF",
+                "row": 12,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Erythroderma Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "lvrJamUsDfR",
+                "row": 13,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Erythroderma Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "lvrJamUsDfR",
+                "row": 13,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Impetigo Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "tdl64qm6OIo",
+                "row": 14,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Impetigo Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "tdl64qm6OIo",
+                "row": 14,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Boils Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "DjYPzxgHx9v",
+                "row": 15,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Boils Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "DjYPzxgHx9v",
+                "row": 15,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Abscess Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "axzMcDrcIfU",
+                "row": 16,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Abscess Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "axzMcDrcIfU",
+                "row": 16,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Furunculosis Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "mq1lHdw5EZ2",
+                "row": 17,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Furunculosis Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "mq1lHdw5EZ2",
+                "row": 17,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Fungal Infection (Lichen Planus) Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "rwQjknPpoey",
+                "row": 18,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Fungal Infection (Lichen Planus) Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "rwQjknPpoey",
+                "row": 18,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Scabies Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "txuV68xtrYc",
+                "row": 19,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Scabies Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "txuV68xtrYc",
+                "row": 19,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Leukoderma Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "JNQxHWNvhcf",
+                "row": 20,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Leukoderma Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "JNQxHWNvhcf",
+                "row": 20,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Psoriasis Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "ZhcOrFM8ho1",
+                "row": 21,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Psoriasis Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "ZhcOrFM8ho1",
+                "row": 21,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Acute Lymphadenitis Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "IihXJC3GzYF",
+                "row": 22,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Skin Diseases-Acute Lymphadenitis Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "IihXJC3GzYF",
+                "row": 22,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Skin-Frostbite Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "PvspE7rlkWK",
+                "row": 23,
+                "column": 2
+            },
+            {
+                " _comment": "OPD Morbidity-Skin-Frostbite Male",
+                "co": "PflKpozpO7b",
+                "de": "PvspE7rlkWK",
+                "row": 23,
+                "column": 3
+            }
+        ]
+    },
+    "18-I_Ear_Nose_and_Throat_Infection":{
+        "dataValues":[
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Acute Suppurative Otitis Media Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "xtYZSzBt4j8",
+                "row": 1,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Acute Suppurative Otitis Media Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "xtYZSzBt4j8",
+                "row": 1,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Chronic Suppurative Otitis Media Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "GbSRNVeeY9r",
+                "row": 2,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Chronic Suppurative Otitis Media Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "GbSRNVeeY9r",
+                "row": 2,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Sinusitis Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "OJUFnZllsLL",
+                "row": 3,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Sinusitis Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "OJUFnZllsLL",
+                "row": 3,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Acute Tonsilitis Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "Ezc8lbdvcW6",
+                "row": 4,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Acute Tonsilitis Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "Ezc8lbdvcW6",
+                "row": 4,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Pharyngitis/Sore Throat Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "yFJdnwOrHXf",
+                "row": 5,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Pharyngitis/Sore Throat Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "yFJdnwOrHXf",
+                "row": 5,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Foreign Body in Ear Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "o2Jx5MaLlex",
+                "row": 6,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Foreign Body in Ear Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "o2Jx5MaLlex",
+                "row": 6,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Foreign Body in Nose Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "CminYXY6RpV",
+                "row": 7,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Foreign Body in Nose Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "CminYXY6RpV",
+                "row": 7,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Foreign Body in Throat Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "ek34FewqNAf",
+                "row": 8,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Foreign Body in Throat Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "ek34FewqNAf",
+                "row": 8,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Wax Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "glyCwpl4XX3",
+                "row": 9,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Wax Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "glyCwpl4XX3",
+                "row": 9,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Nasal Polyps Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "a506kRKpXFX",
+                "row": 10,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Nasal Polyps Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "a506kRKpXFX",
+                "row": 10,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Deviated Nasal Septum (DNS) Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "MRSR1vwB7DR",
+                "row": 11,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Deviated Nasal Septum (DNS) Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "MRSR1vwB7DR",
+                "row": 11,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Rhinitis Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "WTmwO75ijQ0",
+                "row": 12,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Rhinitis Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "WTmwO75ijQ0",
+                "row": 12,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Otitis Externa Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "iIHlesXptP0",
+                "row": 13,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Otitis Externa Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "iIHlesXptP0",
+                "row": 13,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Reflux Laryngitis Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "voyeqQ4VHCX",
+                "row": 14,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-ENT Infection-Reflux Laryngitis Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "voyeqQ4VHCX",
+                "row": 14,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-ENT-Frunculosis of Ear Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "d6rbLkuwYOX",
+                "row": 15,
+                "column": 2
+            },
+            {
+                " _comment": "OPD Morbidity-ENT-Frunculosis of Ear Male",
+                "co": "PflKpozpO7b",
+                "de": "d6rbLkuwYOX",
+                "row": 15,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-ENT-Nasal Vestibulitis Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "HtTcLcPa76T",
+                "row": 16,
+                "column": 2
+            },
+            {
+                " _comment": "OPD Morbidity-ENT-Nasal Vestibulitis Male",
+                "co": "PflKpozpO7b",
+                "de": "HtTcLcPa76T",
+                "row": 16,
+                "column": 3
+            }
+        ]
+    },
+    "18-J_Oral_Health_Related_Problems":{
+        "dataValues":[
+            {
+                " _comment": "Outpatient Morbidity-Oral Health Related Problems-Dental Caries Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "GyGRGTZsRHN",
+                "row": 1,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Oral Health Related Problems-Dental Caries Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "GyGRGTZsRHN",
+                "row": 1,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Oral Health Related Problems-Toothache Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "bEaNbyFhWqE",
+                "row": 2,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Oral Health Related Problems-Toothache Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "bEaNbyFhWqE",
+                "row": 2,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Oral Health Related Problems-Periodontal Disease (Gum Disease) Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "PGX59e9bSPx",
+                "row": 3,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Oral Health Related Problems-Periodontal Disease (Gum Disease) Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "PGX59e9bSPx",
+                "row": 3,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Oral Health Related Problems-Other Disorder of Teeth Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "xoQX7YuYQ8d",
+                "row": 4,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Oral Health Related Problems-Other Disorder of Teeth Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "xoQX7YuYQ8d",
+                "row": 4,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Oral Health Related Problems-Oral Ulcer (Aphthous & Herpetic) Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "FZZdZbgcA47",
+                "row": 5,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Oral Health Related Problems-Oral Ulcer (Aphthous & Herpetic) Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "FZZdZbgcA47",
+                "row": 5,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Oral-Glossitis Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "MkJoAC3k84L",
+                "row": 6,
+                "column": 2
+            },
+            {
+                " _comment": "OPD Morbidity-Oral-Glossitis Male",
+                "co": "PflKpozpO7b",
+                "de": "MkJoAC3k84L",
+                "row": 6,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Oral-Stomatitis Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "dzEJovRUDc7",
+                "row": 7,
+                "column": 2
+            },
+            {
+                " _comment": "OPD Morbidity-Oral-Stomatitis Male",
+                "co": "PflKpozpO7b",
+                "de": "dzEJovRUDc7",
+                "row": 7,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Oral Health Related Problems-Tooth Impaction Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "dFlqpKxwTYh",
+                "row": 8,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Oral Health Related Problems-Tooth Impaction Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "dFlqpKxwTYh",
+                "row": 8,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Oral Health Related Problems-Hypoplasia Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "IriSNYAZb14",
+                "row": 9,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Oral Health Related Problems-Hypoplasia Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "IriSNYAZb14",
+                "row": 9,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Oral Health Related Problems-Leukoplakia Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "OOO9AMFyOuM",
+                "row": 10,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Oral Health Related Problems-Leukoplakia Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "OOO9AMFyOuM",
+                "row": 10,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Oral Health Related Problems-Fungal Infection (Candidiasis) Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "jXZokvGicd1",
+                "row": 11,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Oral Health Related Problems-Fungal Infection (Candidiasis) Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "jXZokvGicd1",
+                "row": 11,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Oral Health Related Problems-Oral Space Infection & Abscess Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "nwdHjVGNJXP",
+                "row": 12,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Oral Health Related Problems-Oral Space Infection & Abscess Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "nwdHjVGNJXP",
+                "row": 12,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Oral-Stained Teeth Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "iNrqjFueJy1",
+                "row": 13,
+                "column": 2
+            },
+            {
+                " _comment": "OPD Morbidity-Oral-Stained Teeth Male",
+                "co": "PflKpozpO7b",
+                "de": "iNrqjFueJy1",
+                "row": 13,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Oral-Chipped Tooth Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "zk7V0m3RA7A",
+                "row": 14,
+                "column": 2
+            },
+            {
+                " _comment": "OPD Morbidity-Oral-Chipped Tooth Male",
+                "co": "PflKpozpO7b",
+                "de": "zk7V0m3RA7A",
+                "row": 14,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Oral-Hyperdontia Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "KRfpvHKnT8n",
+                "row": 15,
+                "column": 2
+            },
+            {
+                " _comment": "OPD Morbidity-Oral-Hyperdontia Male",
+                "co": "PflKpozpO7b",
+                "de": "KRfpvHKnT8n",
+                "row": 15,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Oral-Hypersensitivity Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "zN880cooTgl",
+                "row": 16,
+                "column": 2
+            },
+            {
+                " _comment": "OPD Morbidity-Oral-Hypersensitivity Male",
+                "co": "PflKpozpO7b",
+                "de": "zN880cooTgl",
+                "row": 16,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Oral Cancer Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "KkV2jvCCISU",
+                "row": 17,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Malignancy-Oral Cancer Male",
+                "co": "PflKpozpO7b",
+                "de": "KkV2jvCCISU",
+                "row": 17,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Oral-Gingivitis Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "GeJACUuNCRP",
+                "row": 18,
+                "column": 2
+            },
+            {
+                " _comment": "OPD Morbidity-Oral-Gingivitis Male",
+                "co": "PflKpozpO7b",
+                "de": "GeJACUuNCRP",
+                "row": 18,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Oral-Periodontitis Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "Tc7OOHf9AnE",
+                "row": 19,
+                "column": 2
+            },
+            {
+                " _comment": "OPD Morbidity-Oral-Periodontitis Male",
+                "co": "PflKpozpO7b",
+                "de": "Tc7OOHf9AnE",
+                "row": 19,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Oral-Dry Mouth Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "qSCo6gFpbA7",
+                "row": 20,
+                "column": 2
+            },
+            {
+                " _comment": "OPD Morbidity-Oral-Dry Mouth Male",
+                "co": "PflKpozpO7b",
+                "de": "qSCo6gFpbA7",
+                "row": 20,
+                "column": 3
+            }
+        ]
+    }
+ }
+}

@@ -1,0 +1,60 @@
+{
+    "categories": {
+        "common": [
+            "Acute OPD visit",
+            "Animal bite note",
+            "Burn note",
+            "Death note",
+            "Dental note",
+            "Discharge note",
+            "DR TB follow up (DRTB FU) note",
+            "DR TB intake note",
+            "ECG note", 
+            "ER General Note",
+            "Eye clinical note",
+            "Family planning and reproductive health(FRH) note",
+            "HIV testing and counseling(HTC) note",
+            "HIV treatment and care(HIVTC) follow up note",
+            "HIV treatment and care(HIVTC) intake template",
+            "IPD progress note",
+            "Kalazar note",
+            "Leprosy Note",
+            "Malaria note",
+            "OCMC note",
+            "Operative note",
+            "Pre anesthesia check up note",
+            "Procedure note",
+            "Rehabitation service (RHS) note",
+            "Rehabitation service follow-up (RHS) note",
+            "Reproduction health complication care (RHCC) note",
+            "Sexually transmitted infections(STI) note",
+            "Tuberculosis Intake Note",
+            "Tuberculosis Follow up note",
+            "USG note",
+            "Ultrasound Obstetrics Note",
+            "Vitals",
+            "USG note",
+            "X-Ray note"
+        ],
+        "male": [],
+        "female": [
+            "ANC",
+            "Delivery note",
+            "PNC note",
+            "PMTCT note",
+            "Safe abortion (SA) note"
+        ],
+        "lessThanTwoMonths": [
+            "CBIMNCI (<2 months child)",
+            "Newborn admission (NBA) note"
+        ],
+        "infant": [],
+        "toddler": [],
+        "preschooler": [
+            "CBIMNCI (2 to 59 months child)",
+            "IMAM Program",
+            "Immunization Note",
+            "Nutrition note"
+        ]
+    }
+}

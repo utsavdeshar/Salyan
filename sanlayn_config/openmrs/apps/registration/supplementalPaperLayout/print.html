@@ -1,0 +1,220 @@
+
+<!--
+<link rel="stylesheet" href="/bahmni_config/openmrs/apps/registration/supplementalPaperLayout/css/print.css"/>
+<div>
+    <style>
+    </style>
+    <div class="row fontForSticker">
+        <!-- <div class="left"> 
+            <div class="row">
+                <!--div class="left" ><b><span id="identiferID">{{patient.primaryIdentifier.identifier}}</span></b></div
+                <div class="left" ><b><span id="awbno">{{patient.primaryIdentifier.identifier}}</span></b></div>
+                <div class="right">Date:&nbsp;<span style="text-align:right;" id="todayDate">{{today | date:'dd/MM/yyyy'}}</span></div>
+                <!-- <span style="text-align:left;"><b>{{patient.primaryIdentifier.identifier}}</b></span>
+		        Date:&nbsp;<span style="text-align:right;" id="todayDate">{{today | date:'dd/MM/yyyy'}}</span>             </div>	
+            <div class="row">
+                <span id="nhisID"><b>NHIS {{patient['NHIS Number']}}({{patient['Claim Id']}})</b></span>
+            </div>	
+          
+      <div class="row">  
+          <div class="col-12"><svg id="barc"  ></svg> </div>
+         
+      </div>   
+        
+            <div class="row">
+                <span><strong>{{patient.fullNameLocal()}}</strong></span>
+            </div>
+            <div ng-switch on="patient.gender" class="row">
+                <span>
+                    ({{patient.age.years}}Y {{patient.age.months}}M {{patient.age.days}}D,
+                </span>
+                
+                <span ng-switch-when="M">
+                    Male)
+                </span>
+                <span ng-switch-when="F">
+                    Female)
+                </span>
+            </div>
+            <div class="row">
+                <div class="left">  <span>{{patient.address.cityVillage}}</span>
+                <span>{{patient.address.address1}}</span>
+                <span>{{patient.address.countyDistrict}}</span> </div>
+                <div class="right">
+                    <strong>R.By:&nbsp;{{currentUser.username}}</strong>
+                	</div>
+            </div>
+                        
+            <div class="row dept">
+                <div class="left">Department:&nbsp; <span style="text-align:left;" id="deptId"><strong>{{obs['Department Sent To'][0].value}}</strong></span></div> 
+                
+                <div class="right">{{patient['NHIS Number']}}
+                    
+            <!-- <div class="uname"> -->
+                <!-- {{visitTypePrice = 200}} -->
+            <!-- </div> -->
+                    <!--Charge:&nbsp;<span style="text-align:right;" id="chargeID">{{visitTypePrice}}
+		    </span-->
+		                     
+                <!--/div>
+               <!-- Department:&nbsp; <span style="text-align:left;"><strong>{{obs['Department Sent To'][0].value}}</strong></span
+                <div ng-if="patient['NHIS Number'] ==null">
+		            Charge:&nbsp;<span style="text-align:right;" id="chargeID">
+                    
+                    <span ng-if="obs['Registration Ticket'][0].displayString==='Free-0'">Rs 0</span>
+                    <span ng-if="obs['Registration Ticket'][0].displayString==='Follow UP-5'">Rs 5</span>
+                    <span ng-if="obs['Registration Ticket'][0].displayString==='OPD-40'">Rs 40</span>
+                    <span ng-if="obs['Registration Ticket'][0].displayString==='ER-60'">Rs 60</span> 
+                    </span>   
+                </div>
+                <div ng-if="patient['NHIS Number'] !=null">
+                    <div ng-if="obs['Department Sent To'][0].value=='OPD'">
+                        <div ng-if="coPayment == '0.1'">Charge: 5</div>
+                        <div ng-if="coPayment == '0'">Charge: 0</div>
+                    </div>
+                        
+                    <div ng-if="obs['Department Sent To'][0].value=='Emergency'">Charge: 0</div>
+                </div>
+                      
+                
+            </div>
+        </div>
+    </div>
+    
+
+<script src="/bahmni_config/openmrs/apps/registration/supplementalPaperLayout/js/jquery.js"></script>
+<script src="/bahmni_config/openmrs/apps/registration/supplementalPaperLayout/js/nepaliDatePicker.min.js"></script>
+<script src="/bahmni_config/openmrs/apps/registration/supplementalPaperLayout/js/barcode.js"></script>
+<script src="/bahmni_config/openmrs/apps/registration/supplementalPaperLayout/js/printwala.js"></script>
+
+
+-->
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/bahmni_config/openmrs/apps/registration/supplementalPaperLayout/css/print.css"/>
+<div>
+    <style>
+    </style>
+    <div class="row fontForSticker">
+       
+
+            <div class="row">
+               
+                <div class="left" ><b><span id="awbno" style="font-size: 13px; margin-top:-1000px;">{{patient.primaryIdentifier.identifier}}</span></b></div>
+                <div class="right">Date:&nbsp;<span style="text-align:right;" id="todayDate" style="font-size:1px;">{{today | date:'dd/MM/yyyy'}}</span></div>
+                
+            </div>	
+            <div class="row">
+                <span id="nhisID" style="font-size: 10px;"><b>NHIS {{patient['NHIS Number']}}({{patient['Claim Id']}})</b></span>
+            </div>	
+          
+      <div class="row" >  
+          <div class="col-12"><svg id="barc"></svg> </div>
+         
+      </div>   
+        
+            <div class="row">
+                <span style="font-size: 17px; "><strong >{{patient.fullNameLocal()}}</strong></span>
+            </div>
+            <div ng-switch on="patient.gender" class="row">
+                <span style="font-size: 8px;">
+                    ({{patient.age.years}}Y {{patient.age.months}}M {{patient.age.days}}D,
+                </span>
+                
+                <span ng-switch-when="M" style="font-size: 10px;">
+                    Male)
+                </span>
+                <span ng-switch-when="F" style="font-size: 10px;">
+                    Female)
+                </span>
+            </div>
+            <div class="row">
+                <div class="left">  <span style="font-size: 10px;">{{patient.address.cityVillage}}</span>
+                <span style="font-size: 10px;">{{patient.address.address1}}</span>
+                <span style="font-size: 10px;">{{patient.address.countyDistrict}}</span> </div>
+                <div class="right" style="font-size: 8px; margin-top:-21.5px;">
+                    <strong>Referred Doctor:&nbsp;{{obs['Reffered Doctor'][0].value}}</strong><br>
+                    
+                	</div>
+            </div>
+                        
+            <div class="row dept" style="font-size: 8px;">
+                <div class="left" style="font-size: 8px;">Department:&nbsp;
+                 <span style="text-align:left;" id="deptId" style="font-size: 5px;">
+                 <strong>{{obs['Department Sent To'][0].value}}</strong></span>
+                 </div><br>
+
+                <div class="right" >
+                    
+                    <strong style="font-size: 8px;">R.By:&nbsp;{{currentUser.username}}</strong>
+                </div>
+                <div class="left">
+                    
+              
+                </div>
+              
+                <div ng-if="patient['NHIS Number'] ==null" style="font-size: 10px; margin-top:-10px;">
+		            Charge:&nbsp;<span style="text-align:right;" id="chargeID">
+                    
+                    <span ng-if="obs['Registration Ticket'][0].displayString==='Free-0'">Rs 0</span>
+                    <span ng-if="obs['Registration Ticket'][0].displayString==='Follow UP-5'">Rs 5</span>
+                    <span ng-if="obs['Registration Ticket'][0].displayString==='OPD-40'">Rs 40</span>
+                    <span ng-if="obs['Registration Ticket'][0].displayString==='ER-60'">Rs 60</span> 
+                    </span>   
+                </div>
+                <div ng-if="patient['NHIS Number'] !=null" style="font-size: 10px;">
+                     <div ng-if="obs['Department Sent To'][0].value=='1OPD' || obs['Department Sent To'][0].value=='2OPD' ">
+                        <div ng-if="coPayment == '0.1'">Charge: 5</div>
+                        <div ng-if="coPayment == '0'">Charge: 0</div>
+                    </div> 
+                    <div ng-if="obs['Department Sent To'][0].value=='Emergency'" style="font-size: 5px;">Charge: 0</div>
+                    <!--Charge:&nbsp;<span style="text-align:right;" id="chargeID"></span>-->
+                        
+                    
+                </div>
+                      
+                
+            </div>
+        </div>
+    </div>
+    
+
+<script src="/bahmni_config/openmrs/apps/registration/supplementalPaperLayout/js/jquery.js"></script>
+<script src="/bahmni_config/openmrs/apps/registration/supplementalPaperLayout/js/nepaliDatePicker.min.js"></script>
+<script src="/bahmni_config/openmrs/apps/registration/supplementalPaperLayout/js/barcode.js"></script>
+<script src="/bahmni_config/openmrs/apps/registration/supplementalPaperLayout/js/printwala.js"></script>
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+

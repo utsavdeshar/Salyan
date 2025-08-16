@@ -1,0 +1,466 @@
+{
+  "ou": "Bm39oMfSNir",
+  "ds": "pt4kLYs9rVj",
+  "reports": {
+    "Malaria Type with Classification": {
+      "dataValues": [
+        {
+          "_comment": "Malaria-Type-Plasmodium Vivax-Indigenous",
+          "co": "ACJhD3pQHTg",
+          "de": "RGllDlJ3wdf",
+          "row": 1,
+          "column": 3
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Vivax-Indigenous",
+          "co": "JAiJAXIOjqq",
+          "de": "RGllDlJ3wdf",
+          "row": 1,
+          "column": 4
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Vivax-Indigenous",
+          "co": "ytXmkRvciAn",
+          "de": "RGllDlJ3wdf",
+          "row": 1,
+          "column": 5
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Vivax-Indigenous",
+          "co": "Cu3LWfiVLpV",
+          "de": "RGllDlJ3wdf",
+          "row": 1,
+          "column": 6
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Vivax-Imported",
+          "co": "ACJhD3pQHTg",
+          "de": "u2jJGSgoQYt",
+          "row": 2,
+          "column": 3
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Vivax-Imported",
+          "co": "JAiJAXIOjqq",
+          "de": "u2jJGSgoQYt",
+          "row": 2,
+          "column": 4
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Vivax-Imported",
+          "co": "ytXmkRvciAn",
+          "de": "u2jJGSgoQYt",
+          "row": 2,
+          "column": 5
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Vivax-Imported",
+          "co": "Cu3LWfiVLpV",
+          "de": "u2jJGSgoQYt",
+          "row": 2,
+          "column": 6
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Vivax Relapsed-Indigenous",
+          "co": "ACJhD3pQHTg",
+          "de": "m1rJnye8B9C",
+          "row": 3,
+          "column": 3
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Vivax Relapsed-Indigenous",
+          "co": "JAiJAXIOjqq",
+          "de": "m1rJnye8B9C",
+          "row": 3,
+          "column": 4
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Vivax Relapsed-Indigenous",
+          "co": "ytXmkRvciAn",
+          "de": "m1rJnye8B9C",
+          "row": 3,
+          "column": 5
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Vivax Relapsed-Indigenous",
+          "co": "Cu3LWfiVLpV",
+          "de": "m1rJnye8B9C",
+          "row": 3,
+          "column": 6
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Vivax Relapsed-Imported",
+          "co": "ACJhD3pQHTg",
+          "de": "DnRdXYYN0zc",
+          "row": 4,
+          "column": 3
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Vivax Relapsed-Imported",
+          "co": "JAiJAXIOjqq",
+          "de": "DnRdXYYN0zc",
+          "row": 4,
+          "column": 4
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Vivax Relapsed-Imported",
+          "co": "ytXmkRvciAn",
+          "de": "DnRdXYYN0zc",
+          "row": 4,
+          "column": 5
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Vivax Relapsed-Imported",
+          "co": "Cu3LWfiVLpV",
+          "de": "DnRdXYYN0zc",
+          "row": 4,
+          "column": 6
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Falciparum-Indigenous",
+          "co": "ACJhD3pQHTg",
+          "de": "SWqPhzN8aq1",
+          "row": 5,
+          "column": 3
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Falciparum-Indigenous",
+          "co": "JAiJAXIOjqq",
+          "de": "SWqPhzN8aq1",
+          "row": 5,
+          "column": 4
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Falciparum-Indigenous",
+          "co": "ytXmkRvciAn",
+          "de": "SWqPhzN8aq1",
+          "row": 5,
+          "column": 5
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Falciparum-Indigenous",
+          "co": "Cu3LWfiVLpV",
+          "de": "SWqPhzN8aq1",
+          "row": 5,
+          "column": 6
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Falciparum-Imported",
+          "co": "ACJhD3pQHTg",
+          "de": "Qomi972OyV9",
+          "row": 6,
+          "column": 3
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Falciparum-Imported",
+          "co": "JAiJAXIOjqq",
+          "de": "Qomi972OyV9",
+          "row": 6,
+          "column": 4
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Falciparum-Imported",
+          "co": "ytXmkRvciAn",
+          "de": "Qomi972OyV9",
+          "row": 6,
+          "column": 5
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Falciparum-Imported",
+          "co": "Cu3LWfiVLpV",
+          "de": "Qomi972OyV9",
+          "row": 6,
+          "column": 6
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Mixed-Indigenous",
+          "co": "ACJhD3pQHTg",
+          "de": "r8bPAPKVIeD",
+          "row": 7,
+          "column": 3
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Mixed-Indigenous",
+          "co": "JAiJAXIOjqq",
+          "de": "r8bPAPKVIeD",
+          "row": 7,
+          "column": 4
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Mixed-Indigenous",
+          "co": "ytXmkRvciAn",
+          "de": "r8bPAPKVIeD",
+          "row": 7,
+          "column": 5
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Mixed-Indigenous",
+          "co": "Cu3LWfiVLpV",
+          "de": "r8bPAPKVIeD",
+          "row": 7,
+          "column": 6
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Mixed-Imported",
+          "co": "ACJhD3pQHTg",
+          "de": "nOYcp6COjtB",
+          "row": 8,
+          "column": 3
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Mixed-Imported",
+          "co": "JAiJAXIOjqq",
+          "de": "nOYcp6COjtB",
+          "row": 8,
+          "column": 4
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Mixed-Imported",
+          "co": "ytXmkRvciAn",
+          "de": "nOYcp6COjtB",
+          "row": 8,
+          "column": 5
+        },
+        {
+          "_comment": "Malaria-Type-Plasmodium Mixed-Imported",
+          "co": "Cu3LWfiVLpV",
+          "de": "nOYcp6COjtB",
+          "row": 8,
+          "column": 6
+        },
+        {
+          "_comment": "Malaria-Type-Other-Indegenous",
+          "co": "ACJhD3pQHTg",
+          "de": "pMkcLvF6PBc",
+          "row": 9,
+          "column": 3
+        },
+        {
+          "_comment": "Malaria-Type-Other-Indegenous",
+          "co": "JAiJAXIOjqq",
+          "de": "pMkcLvF6PBc",
+          "row": 9,
+          "column": 4
+        },
+        {
+          "_comment": "Malaria-Type-Other-Indegenous",
+          "co": "ytXmkRvciAn",
+          "de": "pMkcLvF6PBc",
+          "row": 9,
+          "column": 5
+        },
+        {
+          "_comment": "Malaria-Type-Other-Indegenous",
+          "co": "Cu3LWfiVLpV",
+          "de": "pMkcLvF6PBc",
+          "row": 9,
+          "column": 6
+        },
+        {
+          "_comment": "Malaria-Type-Other-Indegenous",
+          "co": "ACJhD3pQHTg",
+          "de": "EnV5CgKE72J",
+          "row": 10,
+          "column": 3
+        },
+        {
+          "_comment": "Malaria-Type-Other-Indegenous",
+          "co": "JAiJAXIOjqq",
+          "de": "EnV5CgKE72J",
+          "row": 10,
+          "column": 4
+        },
+        {
+          "_comment": "Malaria-Type-Other-Indegenous",
+          "co": "ytXmkRvciAn",
+          "de": "EnV5CgKE72J",
+          "row": 10,
+          "column": 5
+        },
+        {
+          "_comment": "Malaria-Type-Other-Indegenous",
+          "co": "Cu3LWfiVLpV",
+          "de": "EnV5CgKE72J",
+          "row": 10,
+          "column": 6
+        }
+      ]
+    },
+    "Malaria Treat Patient": {
+      "dataValues": [
+        {
+          "_comment": "Malaria-Confirmed Uncomplicated Cases",
+          "co": "ACJhD3pQHTg",
+          "de": "RietYFwNFpt",
+          "row": 1,
+          "column": 2
+        },
+        {
+          "_comment": "Malaria-Confirmed Uncomplicated Cases",
+          "co": "JAiJAXIOjqq",
+          "de": "RietYFwNFpt",
+          "row": 1,
+          "column": 3
+        },
+        {
+          "_comment": "Malaria-Confirmed Uncomplicated Cases",
+          "co": "ytXmkRvciAn",
+          "de": "RietYFwNFpt",
+          "row": 1,
+          "column": 4
+        },
+        {
+          "_comment": "Malaria-Confirmed Uncomplicated Cases",
+          "co": "Cu3LWfiVLpV",
+          "de": "RietYFwNFpt",
+          "row": 1,
+          "column": 5
+        },
+        {
+          "_comment": "Malaria-Confirmed Severe Cases",
+          "co": "ACJhD3pQHTg",
+          "de": "caoSOYTdXtP",
+          "row": 2,
+          "column": 2
+        },
+        {
+          "_comment": "Malaria-Confirmed Severe Cases",
+          "co": "JAiJAXIOjqq",
+          "de": "caoSOYTdXtP",
+          "row": 2,
+          "column": 3
+        },
+        {
+          "_comment": "Malaria-Confirmed Severe Cases",
+          "co": "ytXmkRvciAn",
+          "de": "caoSOYTdXtP",
+          "row": 2,
+          "column": 4
+        },
+        {
+          "_comment": "Malaria-Confirmed Severe Cases",
+          "co": "Cu3LWfiVLpV",
+          "de": "caoSOYTdXtP",
+          "row": 2,
+          "column": 5
+        }
+      ]
+    },
+    "Malaria Death": {
+      "dataValues": [
+        {
+          "_comment": "Malaria-Died With Confirmed Malaria-PV",
+          "co": "ACJhD3pQHTg",
+          "de": "zgaXkiGWWHx",
+          "row": 1,
+          "column": 2
+        },
+        {
+          "_comment": "Malaria-Died With Confirmed Malaria-PV",
+          "co": "JAiJAXIOjqq",
+          "de": "zgaXkiGWWHx",
+          "row": 1,
+          "column": 3
+        },
+        {
+          "_comment": "Malaria-Died With Confirmed Malaria-PV",
+          "co": "ytXmkRvciAn",
+          "de": "zgaXkiGWWHx",
+          "row": 1,
+          "column": 4
+        },
+        {
+          "_comment": "Malaria-Died With Confirmed Malaria-PV",
+          "co": "Cu3LWfiVLpV",
+          "de": "zgaXkiGWWHx",
+          "row": 1,
+          "column": 5
+        },
+        {
+          "_comment": "Malaria-Died With Confirmed Malaria-PF",
+          "co": "ACJhD3pQHTg",
+          "de": "iVCXDC1893J",
+          "row": 2,
+          "column": 2
+        },
+        {
+          "_comment": "Malaria-Died With Confirmed Malaria-PF",
+          "co": "JAiJAXIOjqq",
+          "de": "iVCXDC1893J",
+          "row": 2,
+          "column": 3
+        },
+        {
+          "_comment": "Malaria-Died With Confirmed Malaria-PF",
+          "co": "ytXmkRvciAn",
+          "de": "iVCXDC1893J",
+          "row": 2,
+          "column": 4
+        },
+        {
+          "_comment": "Malaria-Died With Confirmed Malaria-PF",
+          "co": "Cu3LWfiVLpV",
+          "de": "iVCXDC1893J",
+          "row": 2,
+          "column": 5
+        },
+        {
+          "_comment": "Malaria-Death-P. Mix",
+          "co": "ACJhD3pQHTg",
+          "de": "CpN6UakdJZl",
+          "row": 3,
+          "column": 2
+        },
+        {
+          "_comment": "Malaria-Death-P. Mix",
+          "co": "JAiJAXIOjqq",
+          "de": "CpN6UakdJZl",
+          "row": 3,
+          "column": 3
+        },
+        {
+          "_comment": "Malaria-Death-P. Mix",
+          "co": "ytXmkRvciAn",
+          "de": "CpN6UakdJZl",
+          "row": 3,
+          "column": 4
+        },
+        {
+          "_comment": "Malaria-Death-P. Mix",
+          "co": "Cu3LWfiVLpV",
+          "de": "CpN6UakdJZl",
+          "row": 3,
+          "column": 5
+        },
+        {
+          "_comment": "Malaria-Death-Others",
+          "co": "ACJhD3pQHTg",
+          "de": "ThC10tPFlF1",
+          "row": 4,
+          "column": 2
+        },
+        {
+          "_comment": "Malaria-Death-Others",
+          "co": "JAiJAXIOjqq",
+          "de": "ThC10tPFlF1",
+          "row": 4,
+          "column": 3
+        },
+        {
+          "_comment": "Malaria-Death-Others",
+          "co": "ytXmkRvciAn",
+          "de": "ThC10tPFlF1",
+          "row": 4,
+          "column": 4
+        },
+        {
+          "_comment": "Malaria-Death-Others",
+          "co": "Cu3LWfiVLpV",
+          "de": "ThC10tPFlF1",
+          "row": 4,
+          "column": 5
+        }
+      ]
+    }
+  }
+}

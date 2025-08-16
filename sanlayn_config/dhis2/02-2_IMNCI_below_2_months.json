@@ -1,0 +1,232 @@
+{
+	"ou": "mkjer41pShd",
+	"ds": "HMy0VijjNDb",
+"reports": 
+{
+	"Childhood Illness Registered(Children aged below 2 months)": 
+	{
+		"dataValues": 
+		[
+			{
+				" _comment": "CBIMCI <2Months-Total Cases <=28 Days, Facility",
+				"co": "MMj2Dc8TvgL",
+				"de": "UbOzhGOJdrq",
+				"row": 1,
+				"column": 1
+			},
+			{
+				" _comment": "CBIMCI <2Months-Total Cases 29 to 59 Days, Facility",
+				"co": "ZQJ5pcgH1lJ",
+				"de": "UbOzhGOJdrq",
+				"row": 1,
+				"column": 2
+			}
+		]
+	},
+	"Childhood Illness PSBI LBI Jaundice Breastfed difficuilty feeding or low weight (less than 2 months)": 
+	{
+		"dataValues": 
+		[
+			{
+				" _comment": "CBIMCI <2Months-Classification-PSBI Cases <=28 Days, Facility",
+				"co": "MMj2Dc8TvgL",
+				"de": "ISzvhZycG3z",
+				"row": 1,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Classification-PSBI Cases 29 to 59 Days, Facility",
+				"co": "ZQJ5pcgH1lJ",
+				"de": "ISzvhZycG3z",
+				"row": 2,
+				"column": 3
+			},
+			{
+				" _comment": "IMNCI-<2 Month-Pneumonia-8 to 28 days Facility",
+				"co": "J0QYmZGlEii",
+				"de": "tAP3rTyoghm",
+				"row": 3,
+				"column": 3
+			},
+			{
+				" _comment": "IMNCI-<2 Month-Pneumonia-29 to 59 days Facility",
+				"co": "J0QYmZGlEii",
+				"de": "oakKv5hX3tb",
+				"row": 4,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Classification-LBI Cases <=28 Days, Facility",
+				"co": "MMj2Dc8TvgL",
+				"de": "YXIPqFIPsjg",
+				"row": 5,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Classification-LBI Cases 29 to 59 Days, Facility",
+				"co": "ZQJ5pcgH1lJ",
+				"de": "YXIPqFIPsjg",
+				"row": 6,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Classification-Jaundice Cases <=28 Days, Facility",
+				"co": "MMj2Dc8TvgL",
+				"de": "IDbh8WJcQsP",
+				"row": 7,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Classification-Jaundice Cases 29 to 59 Days, Facility",
+				"co": "ZQJ5pcgH1lJ",
+				"de": "IDbh8WJcQsP",
+				"row": 8,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Classification-Low Weight/Feeding Problem <=28 days Facility default",
+				"co": "kdsirVNKdhm",
+				"de": "fmCWNnmldW4",
+				"row": 9,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Classification-Low Weight/Feeding Problem 29-59 days Facility default",
+				"co": "kdsirVNKdhm",
+				"de": "aFgNWKMgYz9",
+				"row": 10,
+				"column": 3
+			},
+			{
+				" _comment": "IMNCI-<2 Month-Breast feeding problems-<=28 days Facility",
+				"co": "J0QYmZGlEii",
+				"de": "scY0Di7FwBx",
+				"row": 11,
+				"column": 3
+			},
+			{
+				" _comment": "IMNCI-<2 Month-Breast feeding problems-29 to 59 days Facility",
+				"co": "J0QYmZGlEii",
+				"de": "zXSsKcH6bfe",
+				"row": 12,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Refer Cases <=28 Days, Facility",
+				"co": "MMj2Dc8TvgL",
+				"de": "kqspOhPReRm",
+				"row": 13,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Refer Cases 29 to 59 Days, Facility",
+				"co": "ZQJ5pcgH1lJ",
+				"de": "kqspOhPReRm",
+				"row": 14,
+				"column": 3
+			}
+		]
+	},
+	"Childhood Illness (less than 2 months) treatment": 
+	{
+		"dataValues": 
+		[
+			{
+				" _comment": "CBIMCI <2Months-Treatment-Ampicillin Paediatrics <=28 Days, Facility",
+				"co": "MMj2Dc8TvgL",
+				"de": "lfjCh0FyKSc",
+				"row": 1,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Treatment-Ampicillin Paediatrics 29 to 59 Days, Facility",
+				"co": "ZQJ5pcgH1lJ",
+				"de": "lfjCh0FyKSc",
+				"row": 2,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Treatment-Amoxicillin Paediatrics <=28 Days, Facility",
+				"co": "MMj2Dc8TvgL",
+				"de": "zxN7niCGtSh",
+				"row": 3,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Treatment-Amoxicillin Paediatrics 29 to 59 Days, Facility",
+				"co": "ZQJ5pcgH1lJ",
+				"de": "zxN7niCGtSh",
+				"row": 4,
+				"column": 3
+			},
+			{
+				" _comment": "CBIMCI <2Months-Facility-Treatment-Other Antibiotics default",
+				"co": "kdsirVNKdhm",
+				"de": "TwMrwcnwuSO",
+				"row": 5,
+				"column": 3
+			}
+		]
+	},
+	"Childhood Illness Treatment Gentamycin 1st dose and Complete Dose(less than 2 months)": 
+	{
+		"dataValues":
+		[
+			{
+			" _comment": "CBIMCI <2Months-Treatment-Gentamycin 1st Dose Facility",
+			"co": "J0QYmZGlEii",
+			"de": "fK36K8WBX9s",
+			"row": 1,
+			"column": 2
+			},
+			{
+			" _comment": "CBIMCI <2Months-Treatment-Gentamycin Complete dose Facility",
+			"co": "J0QYmZGlEii",
+			"de": "Q5YnsomfHvO",
+			"row": 2,
+			"column": 2
+			}
+		]
+	},
+	"Childhood Illness Follow up(less than 2 months)": 
+	{
+		"dataValues": 
+		[
+			{
+				" _comment": "CBIMCI <2Months-Follow-Up Facility",
+				"co": "J0QYmZGlEii",
+				"de": "WoIzHgdHUjE",
+				"row": 1,
+				"column": 1
+			}
+		]
+	},
+   "Total death age wise less than 2 months": 
+	{
+		"dataValues": 
+		[
+			{
+				" _comment": "IMNCI-<2 Month-Death-0 to 7 days",
+				"co": "J0QYmZGlEii",
+				"de": "wxvQ7RxWrP7",
+				"row": 1,
+				"column": 1
+			},
+			{
+				" _comment": "IMNCI-<2 Month-Death-8 to 28 days",
+				"co": "J0QYmZGlEii",
+				"de": "dKnUYrvpI0f",
+				"row": 1,
+				"column": 2
+			},
+				{
+				" _comment": "CBIMCI <2Months-Total Death",
+				"co": "ZQJ5pcgH1lJ",
+				"de": "adiGRH9XgjW",
+				"row": 1,
+				"column": 3
+        }
+    ]
+   }
+	}
+}

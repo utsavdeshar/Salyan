@@ -1,0 +1,136 @@
+{
+  "ou": "mkjer41pShd",
+  "ds":"n4q37lRP1zz",
+  "reports": {
+    "20_Gender_Equity_and_Social_Inclusion_HIV-AIDS": {
+      "dataValues": [
+        {
+          " _comment": "Disaggregation by Sex & Caste/Ethnicity-New HIV+ Cases Dalit, Female",
+          "co": "Dj0rmsKZiLJ",
+          "de": "L1zynH1cgD4",
+          "row": 1,
+          "column": 3
+        },
+        {
+          " _comment": "Disaggregation by Sex & Caste/Ethnicity-New HIV+ Cases Dalit, Male",
+          "co": "xS4ElXqiXoA",
+          "de": "L1zynH1cgD4",
+          "row": 1,
+          "column": 2
+        },
+        {
+          " _comment": "Disaggregation by Sex & Caste/Ethnicity-New HIV+ Cases TransGender Dalit",
+          "co": "L9U3tI7WNAn",
+          "de": "hxCOyRJmMM7",
+          "row": 1,
+          "column": 4
+        },
+        {
+          " _comment": "Disaggregation by Sex & Caste/Ethnicity-New HIV+ Cases Janjati, Female",
+          "co": "XsYqOrbvA7e",
+          "de": "L1zynH1cgD4",
+          "row": 2,
+          "column": 3
+        },
+        {
+          " _comment": "Disaggregation by Sex & Caste/Ethnicity-New HIV+ Cases Janjati, Male",
+          "co": "FxNqmZfHgEO",
+          "de": "L1zynH1cgD4",
+          "row": 2,
+          "column": 2
+        },
+        {
+          " _comment": "Disaggregation by Sex & Caste/Ethnicity-New HIV+ Cases TransGender Janjati",
+          "co": "zLIKmL6CLOz",
+          "de": "hxCOyRJmMM7",
+          "row": 2,
+          "column": 4
+        },
+        {
+          " _comment": "Disaggregation by Sex & Caste/Ethnicity-New HIV+ Cases Madhesi, Female",
+          "co": "m7XVRi1qT1J",
+          "de": "L1zynH1cgD4",
+          "row": 3,
+          "column": 3
+        },
+        {
+          " _comment": "Disaggregation by Sex & Caste/Ethnicity-New HIV+ Cases Madhesi, Male",
+          "co": "vAdaNYgYRX3",
+          "de": "L1zynH1cgD4",
+          "row": 3,
+          "column": 2
+        },
+        {
+          " _comment": "Disaggregation by Sex & Caste/Ethnicity-New HIV+ Cases TransGender Madhesi",
+          "co": "axo8zRiLkg8",
+          "de": "hxCOyRJmMM7",
+          "row": 3,
+          "column": 4
+        },
+        {
+          " _comment": "Disaggregation by Sex & Caste/Ethnicity-New HIV+ Cases Muslim, Female",
+          "co": "EJv9IPWeCTb",
+          "de": "L1zynH1cgD4",
+          "row": 4,
+          "column": 3
+        },
+        {
+          " _comment": "Disaggregation by Sex & Caste/Ethnicity-New HIV+ Cases Muslim, Male",
+          "co": "gsOm9pEBion",
+          "de": "L1zynH1cgD4",
+          "row": 4,
+          "column": 2
+        },
+        {
+          " _comment": "Disaggregation by Sex & Caste/Ethnicity-New HIV+ Cases TransGender Muslim",
+          "co": "aiXiO0KW5kz",
+          "de": "hxCOyRJmMM7",
+          "row": 4,
+          "column": 4
+        },
+        {
+          " _comment": "Disaggregation by Sex & Caste/Ethnicity-New HIV+ Cases Brahmin/Chhetri, Female",
+          "co": "fYKzBP3njcE",
+          "de": "L1zynH1cgD4",
+          "row": 5,
+          "column": 3
+        },
+        {
+          " _comment": "Disaggregation by Sex & Caste/Ethnicity-New HIV+ Cases Brahmin/Chhetri, Male",
+          "co": "zJQ0xbEoQJI",
+          "de": "L1zynH1cgD4",
+          "row": 5,
+          "column": 2
+        },
+        {
+          " _comment": "Disaggregation by Sex & Caste/Ethnicity-New HIV+ Cases TransGender Brahmin/Chhetri",
+          "co": "IVNBUxSkGoO",
+          "de": "hxCOyRJmMM7",
+          "row": 5,
+          "column": 4
+        },
+        {
+          " _comment": "Disaggregation by Sex & Caste/Ethnicity-New HIV+ Cases Other Caste, Female",
+          "co": "GyhEtL13JfA",
+          "de": "L1zynH1cgD4",
+          "row": 6,
+          "column": 3
+        },
+        {
+          " _comment": "Disaggregation by Sex & Caste/Ethnicity-New HIV+ Cases Other Caste, Male",
+          "co": "fKYuaCH0OuA",
+          "de": "L1zynH1cgD4",
+          "row": 6,
+          "column": 2
+        },
+        {
+          " _comment": "Disaggregation by Sex & Caste/Ethnicity-New HIV+ Cases TransGender Other Caste",
+          "co": "H3AfizhoVk2",
+          "de": "hxCOyRJmMM7",
+          "row": 6,
+          "column": 4
+        }
+      ]
+    }
+  }
+}

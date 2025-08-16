@@ -1,0 +1,289 @@
+{
+	"ou": "mkjer41pShd",
+  "ds":"HMy0VijjNDb",
+
+	"reports": {
+    "Total Registered Cases (2-59)months": {
+    "dataValues": [
+    {
+    " _comment": "IMCI-Total sick childre- 2 to 59 Months-Male Facility",
+    "co": "J0QYmZGlEii",
+    "de": "Qnq95LHLXG0",
+    "row": 2,
+    "column": 2
+    },
+    {
+    " _comment": "IMCI-Total sick childre- 2 to 59 Months-Female Facility",
+    "co": "J0QYmZGlEii",
+    "de": "Obq8rdOt6EP",
+    "row": 1,
+    "column": 2
+    }
+  ]
+ },
+
+ "Childhood Illness (2-59)ARI Classification Dehydration Diarrhoea and Refered Out": {
+ "dataValues": [
+    {
+    " _comment": "CBIMCI-(2-59Months)-Classification-ARI-No Pneumonia Facility",
+    "co": "J0QYmZGlEii",
+    "de": "GC6lQSFDO5m",
+    "row": 1,
+    "column": 3
+    },
+    {
+    " _comment": "CBIMCI-(2-59Months)-Classification-ARI-Pneumonia Facility",
+    "co": "J0QYmZGlEii",
+    "de": "GGkot8wSlCj",
+    "row": 2,
+    "column": 3
+    },
+    {
+    " _comment": "CBIMCI-(2-59Months)-Classification-ARI-Severe Pneu/Very Severe Disease Facility",
+    "co": "J0QYmZGlEii",
+    "de": "KcPFNbB3UZg",
+    "row": 3,
+    "column": 3
+    },
+    {
+    " _comment": "CBIMCI-(2-59Months)-Classification-Diarrhoea-No Dehydration Facility",
+    "co": "J0QYmZGlEii",
+    "de": "A2lsvQ94qw5",
+    "row": 4,
+    "column": 3
+    },
+    {
+      " _comment": "CBIMCI-(2-59Months)-Classification-Diarrhoea-Some Dehydration Facility",
+      "co": "J0QYmZGlEii",
+      "de": "SlIi0mTWXte",
+      "row": 5,
+      "column": 3
+    },
+    {
+    " _comment": "CBIMCI-(2-59Months)-Classification-Diarrhoea-Severe Dehydration Facility",
+    "co": "J0QYmZGlEii",
+    "de": "Z7hy1EP2KW5",
+    "row": 6,
+    "column": 3
+    },
+    {
+    " _comment": "CBIMCI-(2-59Months)-Classification-Diarrhoea-Prolonged Diarrhoea Facility",
+    "co": "J0QYmZGlEii",
+    "de": "KZzKMkn4H7q",
+    "row": 7,
+    "column": 3
+    },
+    {
+    " _comment": "CBIMCI-(2-59Months)-Classification-Diarrhoea-Dysentery Facility",
+    "co": "J0QYmZGlEii",
+    "de": "sAdwOfXe6Ld",
+    "row": 8,
+    "column": 3
+    },
+    {
+    " _comment": "CBIMCI-(2-59Months)-Refer-ARI Facility",
+    "co": "J0QYmZGlEii",
+    "de": "cvo4qh1QkTA",
+    "row": 9,
+    "column": 3
+    },
+    {
+    " _comment": "CBIMCI-(2-59Months)-Refer-Diarrhoea Facility",
+    "co": "J0QYmZGlEii",
+    "de": "CIO7DFOzXSy",
+    "row": 10,
+    "column": 3
+    },
+    {
+      " _comment": "CBIMCI-(2-59Months)-Refer-Others Facility",
+      "co": "J0QYmZGlEii",
+      "de": "z8fdZad32Pv",
+      "row": 11,
+      "column": 3
+    }
+    ]
+    },
+    "Childhood Illness (2-59)Measles Falciparum Malaria Non Falciparum Malaria Complicated Malaria Fever Anaemia Other": {
+    "dataValues": [
+    {
+      " _comment": "CBIMCI-(2-59Months)-Classification-Malaria-Falciparum Facility default",
+      "co": "kdsirVNKdhm",
+      "de": "g4gt5htFQEZ",
+      "row": 1,
+      "column": 2
+    },
+    {
+      " _comment": "CBIMCI-(2-59Months)-Classification-Malaria-Non Falciparum Facility default",
+      "co": "kdsirVNKdhm",
+      "de": "RByUk9PhqrG",
+      "row": 2,
+      "column": 2
+    },
+    {
+      " _comment": "CBIMCI-(2-59Months)-Classification-Very Serious Febrile Disease Facility",
+      "co": "J0QYmZGlEii",
+      "de": "IM6lK8Mf0q1",
+      "row": 3,
+      "column": 2
+    },
+    {
+      " _comment": "CBIMCI-(2-59Months)-Classification-Measles Facility",
+      "co": "J0QYmZGlEii",
+      "de": "fZEiEvVrr5K",
+      "row": 4,
+      "column": 2
+    },
+    {
+      " _comment": "CBIMCI-(2-59Months)-Classification-Other Fever Facility",
+      "co": "J0QYmZGlEii",
+      "de": "IXYmLRVEHc2",
+      "row": 5,
+      "column": 2
+    },
+    {
+    " _comment": "CBIMCI-(2-59Months)-Classification-Anaemia Facility",
+    "co": "J0QYmZGlEii",
+    "de": "jg3YHWsBweg",
+    "row": 6,
+    "column": 2
+    },
+    {
+    " _comment": "CBIMCI-(2-59Months)-Other Facility",
+    "co": "J0QYmZGlEii",
+    "de": "YuNB9v6cf3x",
+    "row": 7,
+    "column": 2
+    }
+    ]
+    },
+    "Childhood Illness (2-59) total Ear Infection cases": {
+    "dataValues":
+    [
+    {
+    " _comment": "CBIMCI-(2-59Months)-Classification-Ear Infection Facility",
+    "co": "J0QYmZGlEii",
+    "de": "o9sqrRiJzrZ",
+    "row": 1,
+    "column": 1
+    }
+    ]
+    },
+    "Total malnutrition(2-59) cases": {
+    "dataValues":
+    [
+    {
+      " _comment": "IMNCI-2 to 59 Months-Mild Malnutrition Facility",
+      "co": "J0QYmZGlEii",
+      "de": "YoaOO3Ib7KK",
+      "row": 1,
+      "column": 2
+    },
+    {
+      " _comment": "CBIMCI-(2-59Months)-Classification-Severe Malnutrition Facility",
+      "co": "J0QYmZGlEii",
+      "de": "v42lkXexjFS",
+      "row": 2,
+      "column": 2
+      }
+    ]
+    },
+    "Childhood Illness(2-59) total treatment": {
+    "dataValues":
+    [
+    {
+    " _comment": "CBIMCI-(2-59Months)-Treatment-Amoxicillin Facility",
+    "co": "J0QYmZGlEii",
+    "de": "C2QpFPSO3cn",
+    "row": 1,
+    "column": 2
+    },
+    {
+      " _comment": "CBIMCI-(2-59Months)-Treatment-ORS & Zinc Facility",
+      "co": "J0QYmZGlEii",
+      "de": "H3GSFHu9DMV",
+      "row": 2,
+      "column": 2
+    },
+    {
+    " _comment": "CBIMCI-(2-59Months)-Treatment-IV Fluids default",
+    "co": "kdsirVNKdhm",
+    "de": "PbkNwfEqhmR",
+    "row": 3,
+    "column": 2
+    },
+    {
+      " _comment": "CBIMCI-(2-59Months)-Treatment-Antehelminthes Facility",
+      "co": "J0QYmZGlEii",
+      "de": "B713onHvu2I",
+      "row": 4,
+      "column": 2
+    },
+    {
+    " _comment": "CBIMCI-(2-59Months)-Treatment-Vit A Facility",
+    "co": "J0QYmZGlEii",
+    "de": "iJzkUTWNH5a",
+    "row": 5,
+    "column": 2
+    }
+    ]
+    },
+    "Childhood Illness(2-59) total Follow up":
+    {
+      "dataValues":
+      [
+        {
+          " _comment": "CBIMCI-(2-59Months)-Follow-Up Facility",
+          "co": "J0QYmZGlEii",
+          "de": "ri3xWgIHsw1",
+          "row": 1,
+          "column": 1
+        }
+      ]
+    },
+    "Total death(2-59)": {
+      "dataValues":
+      [
+        {
+          " _comment": "CBIMCI-(2-59Months)-Death-ARI Facility",
+          "co": "J0QYmZGlEii",
+          "de": "R6GsecvoH7c",
+          "row": 1,
+          "column": 1
+        },
+        {
+          " _comment": "CBIMCI-(2-59Months)-Death-Diarrhoea Facility",
+          "co": "J0QYmZGlEii",
+          "de": "jfa1GkNMHfz",
+          "row": 1,
+          "column": 2
+        },
+        {
+          " _comment": "CBIMCI-(2-59Months)-Death-Others Facility",
+          "co": "J0QYmZGlEii",
+          "de": "upTQ8ZYfzRq",
+          "row": 1,
+          "column": 3
+        }
+      ]
+    },
+    "Total death age wise(2-59)": {
+      "dataValues":
+      [
+        {
+          " _comment": "IMNCI-2 to 59 Months-Death (2-11 months)",
+          "co": "J0QYmZGlEii",
+          "de": "gozGSASvOFN",
+          "row": 1,
+          "column": 1
+        },
+         {
+          " _comment": "IMNCI-2 to 59 Months-Death (12-59 months)",
+          "co": "J0QYmZGlEii",
+          "de": "yk0zxyPlEgV",
+          "row": 1,
+          "column": 2
+        }
+      ]
+    }
+  }
+ }

@@ -1,0 +1,108 @@
+{
+    "ou": "mkjer41pShd",
+    "ds": "jZ0ClbXLtgz",
+    "reports": {
+      "19_Laboratory_Services_Dataset- Bacteriology": {
+        "dataValues": [
+          {
+            "_comment": "Bacteriology-Gm stain test Conducted",
+            "co": "kdsirVNKdhm",
+            "de": "coBAbfppycX",
+            "row": 1,
+            "column": 3
+          },
+          {
+            "_comment": "Bacteriology-Culture-Blood test conducted",
+            "co": "kdsirVNKdhm",
+            "de": "it4JusH87Wk",
+            "row": 2,
+            "column": 3
+          },
+          {
+            "_comment": "Bacteriology-Culture-Urine test conducted",
+            "co": "kdsirVNKdhm",
+            "de": "sLACvSMlg2x",
+            "row": 3,
+            "column": 3
+          },
+          {
+            "_comment": "Bacteriology-Culture-Body Fluid test conducted",
+            "co": "kdsirVNKdhm",
+            "de": "xMXbKs6edeu",
+            "row": 4,
+            "column": 3
+          },
+          {
+            "_comment": "Bacteriology-Culture-Swab test conducted",
+            "co": "kdsirVNKdhm",
+            "de": "MkoyR8apLNJ",
+            "row": 5,
+            "column": 3
+          },
+          {
+            "_comment": "Bacteriology-Culture-Stool test conducted",
+            "co": "kdsirVNKdhm",
+            "de": "llI4WtU0scF",
+            "row": 6,
+            "column": 3
+          },
+          {
+            "_comment": "Bacteriology-Culture-Pus test conducted",
+            "co": "kdsirVNKdhm",
+            "de": "kp79HNscnxJ",
+            "row": 7,
+            "column": 3
+          },
+          {
+            "_comment": "Bacteriology-Culture-Sputum test conducted",
+            "co": "kdsirVNKdhm",
+            "de": "dXK9lQSnxrg",
+            "row": 8,
+            "column": 3
+          },
+          {
+            "_comment": "Bacteriology-Culture-CSF test conducted",
+            "co": "kdsirVNKdhm",
+            "de": "gvv8uQaWTcW",
+            "row": 9,
+            "column": 3
+          },
+          {
+            "_comment": "Bacteriology-Sputum AFB test conducted",
+            "co": "kdsirVNKdhm",
+            "de": "iHLe8HKsB3K",
+            "row": 10,
+            "column": 3
+          },
+          {
+            "_comment": "Bacteriology-Other AFB test conducted",
+            "co": "kdsirVNKdhm",
+            "de": "sgUz4KSpNIA",
+            "row": 14,
+            "column": 3
+          },
+          {
+            "_comment": "Bacteriology-Leprosy smear test conducted",
+            "co": "kdsirVNKdhm",
+            "de": "Lruh22ELAGR",
+            "row": 11,
+            "column": 3
+          },
+          {
+            "_comment": "Bacteriology-Fungus-Culture test conducted",
+            "co": "kdsirVNKdhm",
+            "de": "KaPqUD0bWdd",
+            "row": 12,
+            "column": 3
+          },
+          {
+            "_comment": "Bacteriology-others test conducted",
+            "co": "kdsirVNKdhm",
+            "de": "VTEmZoEWvp1",
+            "row": 13,
+            "column": 3
+          }
+        ]
+      }
+    }
+  }

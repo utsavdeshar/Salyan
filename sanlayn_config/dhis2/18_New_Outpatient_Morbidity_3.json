@@ -1,0 +1,666 @@
+{
+    "ou": "mkjer41pShd",
+    "ds": "JyROdbGRHgf",
+    "reports": {
+    "18-K_Eye_Problems":{
+        "dataValues": [
+            {
+                " _comment": "OPD Morbidity-Eye-Neonatal Conjunctivitis Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "et9kurthKJ4",
+                "row": 1,
+                "column": 2
+            },
+            {
+                " _comment": "OPD Morbidity-Eye-Neonatal Conjunctivitis Male",
+                "co": "PflKpozpO7b",
+                "de": "et9kurthKJ4",
+                "row": 1,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Trachoma Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "S6sNGnudQxv",
+                "row": 2,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Trachoma Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "S6sNGnudQxv",
+                "row": 2,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Cataract Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "Lxyk9qE4YVm",
+                "row": 3,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Cataract Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "Lxyk9qE4YVm",
+                "row": 3,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Colour Blindness Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "zWK9OO0pMaM",
+                "row": 4,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Colour Blindness Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "zWK9OO0pMaM",
+                "row": 4,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Refractive Error Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "IqwX6ARGCF7",
+                "row": 5,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Refractive Error Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "IqwX6ARGCF7",
+                "row": 5,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Glaucoma Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "RdpEs3jOLCH",
+                "row": 6,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Glaucoma Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "RdpEs3jOLCH",
+                "row": 6,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Colour Blindness Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "zWK9OO0pMaM",
+                "row": 7,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Colour Blindness Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "zWK9OO0pMaM",
+                "row": 7,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Exophthalmos Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "SzcyHRm0seg",
+                "row": 8,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Exophthalmos Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "SzcyHRm0seg",
+                "row": 8,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Sty Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "K1Vggqh7EZL",
+                "row": 9,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Sty Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "K1Vggqh7EZL",
+                "row": 9,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Chalazion Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "NukRpHU2mcF",
+                "row": 10,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Chalazion Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "NukRpHU2mcF",
+                "row": 10,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Pterygium Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "Bq8dxhxEmcI",
+                "row": 11,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Pterygium Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "Bq8dxhxEmcI",
+                "row": 11,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Diabetic Retinopathy Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "sMRPKqciSdG",
+                "row": 12,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Diabetic Retinopathy Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "sMRPKqciSdG",
+                "row": 12,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Hypertensive Retinopathy Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "lNtBCvtTxhy",
+                "row": 13,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Hypertensive Retinopathy Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "lNtBCvtTxhy",
+                "row": 13,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Entropion Cases Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "b1YXlOITj25",
+                "row": 14,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Entropion Cases Male",
+                "co": "PflKpozpO7b",
+                "de": "b1YXlOITj25",
+                "row": 14,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Eye Problems-Traumatic Eye Disease Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "tnm6bH7SuJ2",
+                "row": 15,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Eye Problems-Traumatic Eye Disease Male",
+                "co": "PflKpozpO7b",
+                "de": "tnm6bH7SuJ2",
+                "row": 15,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Eye Problems-Uveitis Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "mvm8Z3wTFmT",
+                "row": 16,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Eye Problems-Uveitis Male",
+                "co": "PflKpozpO7b",
+                "de": "mvm8Z3wTFmT",
+                "row": 16,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Eye Problems-Macular degeneration (Age related) Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "dHT1BRQHShX",
+                "row": 17,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Eye Problems-Macular degeneration (Age related) Male",
+                "co": "PflKpozpO7b",
+                "de": "dHT1BRQHShX",
+                "row": 17,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Eye Problems-Amblyopia (Lazy eye) Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "KBoL28KAp3v",
+                "row": 18,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Eye Problems-Amblyopia (Lazy eye) Male",
+                "co": "PflKpozpO7b",
+                "de": "KBoL28KAp3v",
+                "row": 18,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Eye Problems-Squint Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "LPL3KuAFTFb",
+                "row": 19,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Eye Problems-Squint Male",
+                "co": "PflKpozpO7b",
+                "de": "LPL3KuAFTFb",
+                "row": 19,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Eye Problems-Retinitis pigmentosa Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "pLdnHZ6QHyu",
+                "row": 20,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Eye Problems-Retinitis pigmentosa Male",
+                "co": "PflKpozpO7b",
+                "de": "pLdnHZ6QHyu",
+                "row": 20,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Eye Problems-Nightblindness/Visual disturbance Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "Myk6XIoYftg",
+                "row": 21,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Eye Problems-Nightblindness/Visual disturbance Male",
+                "co": "PflKpozpO7b",
+                "de": "Myk6XIoYftg",
+                "row": 21,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Eye Problems-Retinoblastoma Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "jjYff5pdoVS",
+                "row": 22,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Eye Problems-Retinoblastoma Male",
+                "co": "PflKpozpO7b",
+                "de": "jjYff5pdoVS",
+                "row": 22,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Eye-Red Eye Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "n0shLXzsRei",
+                "row": 23,
+                "column": 2
+            },
+            {
+                " _comment": "OPD Morbidity-Eye-Red Eye Male",
+                "co": "PflKpozpO7b",
+                "de": "n0shLXzsRei",
+                "row": 23,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Eye-Blepharitis Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "q8avBkQYnRz",
+                "row": 24,
+                "column": 2
+            },
+            {
+                " _comment": "OPD Morbidity-Eye-Blepharitis Male",
+                "co": "PflKpozpO7b",
+                "de": "q8avBkQYnRz",
+                "row": 24,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Eye-Neonatal Conjunctivitis Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "et9kurthKJ4",
+                "row": 25,
+                "column": 2
+            },
+            {
+                " _comment": "OPD Morbidity-Eye-Neonatal Conjunctivitis Male",
+                "co": "PflKpozpO7b",
+                "de": "et9kurthKJ4",
+                "row": 25,
+                "column": 3
+            }
+        ]
+    },
+    "18-L_Obstetrics_Complications":{
+        "dataValues":[
+            {
+                " _comment": "Outpatient Morbidity-Obstetrics Complications-Ectopic Pregnancy ",
+                "co": "kdsirVNKdhm",
+                "de": "l9K5FDX0TzP",
+                "row": 1,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Obstetrics Complications-Abortion Complication ",
+                "co": "kdsirVNKdhm",
+                "de": "l2WtbkagDEQ",
+                "row": 2,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Obstetrics Complications-Pregnancy Induced Hypertension (PIH) ",
+                "co": "kdsirVNKdhm",
+                "de": "x6rCNsx0k94",
+                "row": 3,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Obstetrics Complications-Severe/Pre-eclampsia ",
+                "co": "kdsirVNKdhm",
+                "de": "EELNfz1YCZv",
+                "row": 4,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Obstetrics Complications-Antepartum Eclampsia ",
+                "co": "kdsirVNKdhm",
+                "de": "SQNwhuIWZnE",
+                "row": 5,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Obstetrics Complications-Intrapartum Eclampsia ",
+                "co": "kdsirVNKdhm",
+                "de": "AR2PUdMddYz",
+                "row": 6,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Obstetrics Complications-Postpartum Eclampsia ",
+                "co": "kdsirVNKdhm",
+                "de": "kdWPXAMCv2N",
+                "row": 7,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Obstetrics Complications-Hyperemesis Grivadarum ",
+                "co": "kdsirVNKdhm",
+                "de": "jdMSjAAFrsr",
+                "row": 8,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Obstetrics Complications-Antepartum Haemorrhage ",
+                "co": "kdsirVNKdhm",
+                "de": "PJklaKiPahr",
+                "row": 9,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Obstetrics Complications-Prolonged labour ",
+                "co": "kdsirVNKdhm",
+                "de": "wOcRtQidQ51",
+                "row": 10,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Obstetrics Complications-Obstructed Labour ",
+                "co": "kdsirVNKdhm",
+                "de": "tYjWPArxgfm",
+                "row": 11,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Obstetrics Complications-Ruptured Uterus ",
+                "co": "kdsirVNKdhm",
+                "de": "CMTTYvszId4",
+                "row": 12,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Obstetrics Complications-Postpartum Haemorrhage ",
+                "co": "kdsirVNKdhm",
+                "de": "tKnSyC5j6yR",
+                "row": 13,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Obstetrics Complications-Retained Placenta ",
+                "co": "kdsirVNKdhm",
+                "de": "klPzarmP4i5",
+                "row": 14,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Obstetrics Complications-Other Complications of labor and delivery ",
+                "co": "kdsirVNKdhm",
+                "de": "DHYZJyfhw1s",
+                "row": 15,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Obstetrics Complications-Puerperal Sepsis ",
+                "co": "kdsirVNKdhm",
+                "de": "daRv0ld07Hm",
+                "row": 16,
+                "column": 2
+            }
+        ]
+    },
+    "18-M_Gyne_Problems":{
+        "dataValues":[
+            {
+                " _comment": "Outpatient Morbidity-Gynae Problems-Pelvic Inflammatory Disease (PID) default",
+                "co": "kdsirVNKdhm",
+                "de": "ZcI2ieytA1s",
+                "row": 1,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Gynae Problems-Prolapsed Uterus default",
+                "co": "kdsirVNKdhm",
+                "de": "ldgv9ph2mBj",
+                "row": 2,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Gynae Problems-Menstrual disorder default",
+                "co": "kdsirVNKdhm",
+                "de": "eVXV442upyV",
+                "row": 3,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Gynae Problems-Disfunctional Uterine Bleeding (DUB) default",
+                "co": "kdsirVNKdhm",
+                "de": "KRiv3u1UVbQ",
+                "row": 4,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Gynae Problems-Sub-fertility (Female) default",
+                "co": "kdsirVNKdhm",
+                "de": "bQBY0ZM3U1Q",
+                "row": 5,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Gynae Problems-Sub-fertility/Infertility (Male) default",
+                "co": "kdsirVNKdhm",
+                "de": "fCv76CsoGVC",
+                "row": 6,
+                "column": 3
+            }
+        ]
+    },
+    "18-N_Mental_Health_related_Problems":{
+        "dataValues":[
+            {
+                " _comment": "Outpatient Morbidity-Mental Health related problems-Dementia Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "bPqpAal7GQR",
+                "row": 1,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Mental Health related problems-Dementia Male",
+                "co": "PflKpozpO7b",
+                "de": "bPqpAal7GQR",
+                "row": 1,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Mental Health related problems-Addiction (ch. acoholisim, Dipsomania, Drug) Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "YZoJchLc66y",
+                "row": 2,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Mental Health related problems-Addiction (ch. acoholisim, Dipsomania, Drug) Male",
+                "co": "PflKpozpO7b",
+                "de": "YZoJchLc66y",
+                "row": 2,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Mental Health related problems-Schizophrenia Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "VY580eVaGXw",
+                "row": 3,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Mental Health related problems-Schizophrenia Male",
+                "co": "PflKpozpO7b",
+                "de": "VY580eVaGXw",
+                "row": 3,
+                "column": 3
+            },
+            {
+                " _comment": "OPD Morbidity-Mental-Acute psychotic disorder Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "gZf4PtuvTuB",
+                "row": 4,
+                "column": 2
+            },
+            {
+                " _comment": "OPD Morbidity-Mental-Acute psychotic disorder Male",
+                "co": "PflKpozpO7b",
+                "de": "gZf4PtuvTuB",
+                "row": 4,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Mental Health related problems-Bipolar Affective Disorder Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "wpE1UaVVdRB",
+                "row": 5,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Mental Health related problems-Bipolar Affective Disorder Male",
+                "co": "PflKpozpO7b",
+                "de": "wpE1UaVVdRB",
+                "row": 5,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Mental Health related problems-Depression Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "Dj1nN42wiMd",
+                "row": 6,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Mental Health related problems-Depression Male",
+                "co": "PflKpozpO7b",
+                "de": "Dj1nN42wiMd",
+                "row": 6,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Mental Health related problems-Phobic anxiety Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "m09EZ409OyU",
+                "row": 7,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Mental Health related problems-Phobic anxiety Male",
+                "co": "PflKpozpO7b",
+                "de": "m09EZ409OyU",
+                "row": 7,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Mental Health related problems-Psychosis Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "AItZIQeritY",
+                "row": 8,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Mental Health related problems-Psychosis Male",
+                "co": "PflKpozpO7b",
+                "de": "AItZIQeritY",
+                "row": 8,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Mental Health related problems-Obsessive-Compulsive Disorder Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "pmLQfrfxRGP",
+                "row": 9,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Mental Health related problems-Obsessive-Compulsive Disorder Male",
+                "co": "PflKpozpO7b",
+                "de": "pmLQfrfxRGP",
+                "row": 9,
+                "column": 3
+            },
+            {
+                " _comment": "Outpatient Morbidity-Mental Health related problems-Conversive disorder (Hysteria) Female",
+                "co": "ye1QuAMRG5Z",
+                "de": "HEHjpjSkufl",
+                "row": 10,
+                "column": 2
+            },
+            {
+                " _comment": "Outpatient Morbidity-Mental Health related problems-Conversive disorder (Hysteria) Male",
+                "co": "PflKpozpO7b",
+                "de": "HEHjpjSkufl",
+                "row": 10,
+                "column": 3
+            }
+        ]
+    }
+}
+}
